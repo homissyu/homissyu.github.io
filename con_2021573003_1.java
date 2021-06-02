@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
-public class Assignment2_1{
+public class con_2021573003_1{
+    int i=0;
     public static void main (String [] args){
-        Assignment2_1 as = new Assignment2_1();
+        con_2021573003_1 as = new con_2021573003_1();
         Scanner sc = null;
         try {
             System.out.print("Up to how much? :");
