@@ -8,17 +8,19 @@ public class con_2021573003 {
         Scanner sc = null;
         try {
             sc = new Scanner(System.in);
-            System.out.println("First, select assignment number");
-            System.out.println("1. Up to Sum, 2.Rectangle in Histogram\n");
-            System.out.println("Assignment no :");
+            System.out.println("\nFirst, select assignment");
+            System.out.println("1. Up to Sum");
+            System.out.println("2. Rectangle in Histogram\n");
+            System.out.print("Assignment no : ");
             switch(sc.nextInt()){
                 case 1:
-                    System.out.print("Up to how much? :");
+                    System.out.print("\nUp to how much? : ");
                     int input = sc.nextInt();
                     System.out.println("Ouput : "+as.up2Sum(input));
+                    System.out.println();
                 break;
                 case 2:
-                    System.out.print("Input Count : ");
+                    System.out.print("\nInput Count : ");
                     int cnt = 0;
                     if(sc.hasNextInt()){
                         cnt = sc.nextInt();
@@ -27,7 +29,8 @@ public class con_2021573003 {
                             as.aList.add(sc.nextInt()); // 입력된 숫자목록을 ArrayList에 추가한다.
                         }
                         as.aList.add(0); //중간값과 양쪽 구간 값을 비교하기 위한 리스트이므로 최소입력값+1개의 길이가 필요함.
-                        System.out.println("Ouput:"+as.getMaxRectangle(0,cnt)); //0부터 입력된 리스트의 마지막 수까지의 구간에 대해 분할정복법으로 최대 넓이를 구한다.
+                        System.out.println("Ouput : "+as.getMaxRectangle(0,cnt)); //0부터 입력된 리스트의 마지막 수까지의 구간에 대해 분할정복법으로 최대 넓이를 구한다.
+                        System.out.println();
                     } else {
                         throw new Exception("ArrayLengthException : Only numbers are allowed.");
                     }
