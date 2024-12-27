@@ -15,12 +15,13 @@
 <div id="map" style="width:100%;height:1600px;"></div>
 
 <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=052992b06aba892a3aac530f1505f1f7"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=052992b06aba892a3aac530f1505f1f7"></script>
 <script>
 var mapContainer = document.getElementById('map'), // 지도를 표시할 div  
-    mapOption = { 
-        center: new kakao.maps.LatLng(37.5345855,126.9868953), // 지도의 중심좌표, 녹사평역
-        level: 7 // 지도의 확대 레벨
-    };
+var mapOption = { 
+    center: new kakao.maps.LatLng(37.5345855,126.9868953), // 지도의 중심좌표, 녹사평역
+    level: 7 // 지도의 확대 레벨
+};
 
 var map = new kakao.maps.Map(mapContainer, mapOption); // 지도를 생성합니다
  
