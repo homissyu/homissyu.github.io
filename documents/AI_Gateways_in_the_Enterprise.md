@@ -1,147 +1,152 @@
-Chapter 1. Why AI Adoption Is Critical for Enterprise Success
-In this chapter, we’ll explore why AI adoption has become critical for enterprise success and examine how organizations are leveraging AI across different business functions to drive transformation and competitive advantage.
+# Chapter 1. AI도입이 기업의 성공에 필수적인 이유
 
-Artificial intelligence has become a hot topic over the past couple of years. It’s transforming the enterprise technology landscape. Building on previous technological revolutions—from word processors that fundamentally changed document creation and workflow, CRM systems that transformed how organizations manage customer relationships, and accounting software that revolutionized financial operations—AI is introducing a new dimension of change. While these earlier innovations each transformed specific business functions, AI’s impact is uniquely pervasive, simultaneously enhancing customer experiences, streamlining operations, and driving innovation across virtually every department and process within organizations.
+이 장에서는 AI 도입이 엔터프라이즈 성공에 필수적이 된 이유를 살펴보고, 조직들이 비즈니스 기능의 다양한 분야에서 AI를 활용하여 변혁과 경쟁 우위를 이루는 방법을 살펴볼 것입니다.
 
-Data from recent research shows the impact of AI adoption. According to a comprehensive global survey of 2,500 senior business leaders conducted by Google Cloud, 74% of enterprises using AI in production already see a return on investment (ROI) within their first year. Moreover, 86% of organizations seeing revenue growth from AI report gains of 6% or more in annual revenue.
+인공지능은 지난 몇 년간 화제의 중심이 되었습니다. 엔터프라이즈 기술 환경을 근본적으로 변화시키고 있습니다. 과거의 기술 혁명들—문서 작성 및 워크플로우를 획기적으로 변경한 워드프로세서, 조직의 고객 관계 관리 방식을 변혁한 CRM 시스템, 재무 운영을 혁신한 회계 소프트웨어—을 바탕으로 AI는 새로운 차원의 변화를 도입하고 있습니다. 이전의 혁신 기술들이 각각 특정 비즈니스 기능을 변혁했다면, AI의 영향은 매우 광범위하여 고객 경험 향상, 운영 효율화, 그리고 조직 내 거의 모든 부서와 프로세스에서의 혁신을 동시에 추진하고 있습니다.
 
-Similarly, a CIO Tech poll study found that 70% of enterprises will increase their AI spending over the next year in anticipation of their organizations using AI tools to transform their business in the next three to five years.
+최근 연구 데이터는 AI 도입의 영향을 보여줍니다. Google Cloud가 실시한 2,500명의 선임 비즈니스 리더를 대상으로 한 포괄적인 글로벌 설문조사에 따르면, 프로덕션 환경에서 AI를 사용하는 74%의 엔터프라이즈가 첫 해 내에 이미 투자 수익률(ROI)을 확인하고 있습니다. 더욱이 AI로부터 수익 성장을 경험하는 조직의 86%는 연간 수익에서 6% 이상의 이득을 보고하고 있습니다.
 
-These statistics highlight that AI adoption is not just driving incremental improvements—it’s enabling business transformation across key dimensions. The stats below are all from the Google Cloud survey:
+유사하게, CIO Tech 설문조사에서는 향후 1년 내에 70%의 엔터프라이즈가 향후 3~5년 내에 비즈니스를 변혁할 AI 도구를 사용할 것으로 예상하여 AI 지출을 증가시킬 계획임을 발견했습니다.
 
-Customer experience
-AI enhances how organizations engage with customers. The Google Cloud survey shows that 85% of companies improving user experience with AI report measurable increases in user engagement. From chatbots to personalized recommendations, AI is reshaping the customer journey.
+이러한 통계는 AI 도입이 단순한 점진적 개선을 이루는 것이 아니라 주요 영역에 걸쳐 비즈니스 변혁을 가능하게 하고 있음을 강조합니다. 아래 통계는 모두 Google Cloud 설문조사로부터 얻었습니다:
 
-Productivity
-Among enterprises reporting productivity improvements from AI, 45% note a doubling—or more—of employee output. This underscores AI’s ability to automate repetitive tasks and transform how work gets done.
+    Customer experience
+    
+    AI는 조직이 고객과 상호작용하는 방식을 향상시킵니다. Google Cloud 설문조사에 따르면 AI를 통해 사용자 경험을 개선하는 85%의 기업이 사용자 참여도의 측정 가능한 증가를 보고하고 있습니다. 챗봇에서부터 맞춤형 추천에 이르기까지 AI는 고객 여정을 재편하고 있습니다.
+    
+    Productivity
+    
+    AI로부터 생산성 개선을 보고하는 엔터프라이즈 중 45%는 직원 생산성이 2배 이상 증가했다고 언급합니다. 이는 AI가 반복적인 작업을 자동화하고 업무 수행 방식을 변혁할 수 있는 능력을 강조합니다.
+    
+    Business growth
+    
+    AI는 여러 분야에서 성장을 촉진하고 있으며, 63%의 조직이 AI 도입으로 인한 직접적인 비즈니스 개선을 보고하고 있습니다:
+    
+    - 45%의 조직은 AI 배포 후 엔지니어링 및 개발자 생산성이 최소 2배 이상 증가했다고 봅니다.
+    
+    - 84%의 조직은 기술 팀의 가속화와 6개월 이내에 AI 사용 사례를 프로덕션으로 이동할 수 있게 되었다고 보고합니다.
+    
+    - 70%의 조직은 더 빠른 인사이트 도출 시간을 보고하며, 59%는 핵심 IT 프로세스 및 인프라의 정확도를 개선했습니다.
+    
+    Security
+    
+    AI를 통해 보안 태세를 개선한 조직의 56% 중 82%는 더 나은 위협 탐지를 언급하며, 71%는 사건 대응 시간 단축을 보고합니다.
 
-Business growth
-AI is fueling growth on multiple fronts, with 63% of organizations reporting direct business improvements due to AI implementation:
+개념 증명에서 프로덕션 시스템으로의 전환은 AI 도입의 분수령을 표시합니다. 오늘날 84%의 조직은 아이디어에서 프로덕션까지 6개월 이내에 AI 사용 사례를 배포할 수 있으며, 이는 이전 기술 혁신과 비교했을 때 놀라운 가속화입니다. 이전 기술들이 특정 비즈니스 기능을 변혁했던 것과 달리, 이러한 빠른 배포 능력은 AI가 인프라와 핵심 프로세스에서부터 고객 대면 서비스와 비즈니스 전략에 이르기까지 조직의 전체 운영 환경에 걸쳐 동시에 변화를 이끌 수 있게 합니다. 이러한 다중 영역에 걸친 수평적 변혁은 기술이 엔터프라이즈를 재편하는 방식의 근본적인 변화를 나타냅니다.
 
-45% of organizations see engineering and developer productivity at least double after AI deployment.
+AI 도입은 더 이상 경쟁 관련성을 유지하려는 조직에게 선택 사항이 아닙니다. 초기 AI 도입 기업들은 AI 솔루션 구현에 대한 실무 경험을 축적하고, 팀 전체에 걸쳐 깊은 AI 전문성을 개발하고, AI 통합을 최적화하도록 워크플로우를 재편성하고, AI 모델을 지속적으로 개선하는 평가 피드백 시스템(평가)을 만들어 경쟁 우위를 창출하고 있습니다.
 
-84% of organizations report accelerating technical teams and allowing them to move AI use cases to production in less than 6 months.
+규모에 맞는 AI 구현은 아키텍트와 플랫폼 엔지니어에게 상당한 기술적 과제를 제시합니다. 개념 증명에서 프로덕션으로 이동하는 조직들은 보안, 거버넌스, 확장성 관련 복잡한 요구사항에 직면합니다. AI를 성공적으로 배포하려면 다음을 수행할 수 있는 견고한 기술적 기초를 구축해야 합니다:
 
-70% of organizations report faster time to insight and 59% improve accuracy in core IT processes and infrastructure.
+- 여러 AI 공급자에 걸쳐 민감한 데이터 및 API 자격증명 보안
 
-Security
-Of the 56% of organizations that improved their security posture with AI, 82% cite better threat detection, while 71% report reduced incident response times.
+- 규모에 맞는 리소스 소비 관리 및 최적화
 
-The transition from proof of concept to production system marks a turning point in AI adoption. Today, 84% of organizations can deploy AI use cases from idea to production in under six months, a remarkable acceleration compared to prior technological innovations. Unlike previous technologies that transformed specific business functions, this rapid deployment capability enables AI to drive simultaneous changes across an organization’s entire operational landscape—from infrastructure and core processes to customer-facing services and business strategies. This horizontal transformation across multiple domains represents a fundamental shift in how technology reshapes enterprises.
+- 일관된 성능 및 안정성 보장
 
-AI adoption is no longer optional for organizations that want to maintain competitive relevance. Early AI adopters are creating competitive advantages by building hands-on experience implementing AI solutions, developing deep AI expertise across their teams, reshaping their workflows to optimize AI integration, and creating evaluation feedback systems (evals) that continuously improve their AI models.
+- 조직 전체의 규정 준수 및 거버넌스 유지
 
-Implementing AI at scale presents significant technical challenges for architects and platform engineers. Organizations moving from proof of concept to production face complex requirements around security, governance, and scalability. Successfully deploying AI requires building robust technical foundations that can:
+- 기존 시스템 및 워크플로우와의 원활한 통합 실현
 
-Secure sensitive data and API credentials across multiple AI providers
+이러한 기술적 과제를 성공적으로 해결하면서 빠른 배포와 장기 전략의 균형을 맞추는 조직들은 AI 기반 세계에서의 성공을 위한 위치를 확보하게 될 것입니다.
 
-Manage and optimize resource consumption at scale
+## Common AI Use Cases
+빅데이터 아키텍처의 등장으로 촉진되어 AI 기술은 마침내 학술 연구 센터에서 주류로 이동했습니다. 대규모 언어 모델(LLM)과 같은 새로운 도구의 부상은 팀이 협업하는 방식부터 기업이 데이터를 분석하는 방식까지 모든 것을 변혁하고 있습니다.
 
-Ensure consistent performance and reliability
+    Note
+    
+    LM은 광대한 양의 텍스트 데이터로 훈련된 인공지능 시스템으로, 인간과 같은 텍스트를 이해하고 생성합니다. LLM의 '대규모(Large)'는 훈련 데이터의 크기와 모델의 매개변수(그 동작을 결정하는 수학적 값)의 크기를 모두 나타냅니다. LLM은 훈련 데이터와 문맥을 바탕으로 수열에서 가장 가능성 있는 다음 단어를 예측하여 작동합니다. 문맥을 이해하고 질문에 답하고 텍스트를 작성할 수 있는 자동완성 시스템이라고 생각하면 됩니다. LLM의 주요 사례로는 GPT-4, Claude, Llama가 있습니다.
 
-Maintain compliance and governance across the organization
+오늘날 기업들이 AI를 활용하는 주요 방식들을 살펴보겠습니다. 새로운 사용 사례가 정기적으로 등장한다는 점을 유념하면서 말입니다. 성공의 핵심은 AI가 귀사에 가장 큰 가치를 제공할 수 있는 분야를 파악하고, 인간의 능력을 대체하기보다는 향상시키는 방식으로 이를 구현하는 것입니다.
 
-Enable seamless integration with existing systems and workflows
+### Enterprise Productivity and Knowledge Work
 
-Those who successfully address these technical challenges while balancing rapid deployment with long-term strategy will position their organizations for success in an AI-driven world.
+AI는 데이터로부터 힘을 얻습니다. 데이터는 AI에서 이중의 역할을 수행합니다: LLM이 훈련되는 기초를 형성하고 그들의 작동을 위한 중요한 문맥으로 기능합니다. 금융 분석가들은 AI를 사용하여 분기별 보고서와 시장 동향에서 통찰력을 빠르게 추출하여, 수시간의 수작업 분석을 수분의 자동화된 처리로 변환합니다. 마케팅 팀은 AI를 활용하여 캠페인 성과 데이터를 분석하고 콘텐츠 변형을 생성합니다. 연구팀은 AI를 사용하여 학술 논문을 요약하고 방대한 발행물 데이터베이스에서 관련 연구를 식별합니다.
 
-Common AI Use Cases
-Fueled by the emergence of big data architectures, AI technology has finally moved from academic research centers to the mainstream. The rise of new tools such as large language models (LLMs) is transforming everything from how teams collaborate to how businesses crunch their data.
+LLM은 문서 분석 및 요약, 보고서 생성 및 데이터 시각화, 시장 조사 및 동향 분석, 이메일 관리 및 응답 초안 작성, 회의 요약 및 조치 항목 추출 등과 같은 작업에 강력합니다.
 
-Note
-An LLM is an artificial intelligence system trained on vast amounts of text data to understand and generate human-like text. Large in LLM refers both to the size of the training data and the model’s parameters (the mathematical values that determine its behavior). An LLM works by predicting the most probable next word in a sequence based on its training data and context. Think of it like an autocomplete system that can understand context, answer questions, and write text. Key examples of LLMs include GPT-4, Claude, and Llama.
+### Customer Experience and Engagement
 
-Let’s explore the major ways businesses are putting AI to work today, keeping in mind that new use cases emerge regularly. The keys to success are identifying where AI can provide the most value for your specific organization and implementing it in ways that enhance rather than replace human capabilities.
+고객 서비스는 조직들이 AI 구현에서 즉각적인 ROI를 보는 최상위 영역 중 하나입니다.
 
-Enterprise Productivity and Knowledge Work
-AI gets its power from data. Data plays a dual role in AI: it forms the foundation that LLMs are trained on and it serves as a crucial context for their operation. Financial analysts use AI to rapidly extract insights from quarterly reports and market trends, turning hours of manual analysis into minutes of automated processing. Marketing teams leverage AI to analyze campaign performance data and generate content variations. Research teams use AI to summarize academic papers and identify relevant studies across vast databases of publications.
+현대의 AI 기반 고객 서비스 시스템은 단순히 기본 질문에 답하는 것 이상을 수행합니다. 고객이 타이핑하든 말하든 간에 자연어를 이해하고 처리하여 의도를 파악합니다. 대화 흐름은 모든 과거 상호작용, 구매 이력, 계정 세부 정보로 풍부하고 개인화됩니다. 복잡한 문제가 발생하면 이러한 시스템은 고객을 전문가에게 지능적으로 라우팅하는 방법을 알고 있으며 AI가 생성한 문맥, 실시간 통찰력, 응답 제안을 제공합니다.
 
-LLMs are powerful for tasks like document analysis and summarization, report generation and data visualization, market research and trend analysis, email management and response drafting, meeting summarization and action item extraction, and more.
+### Business Process Automation and Decision Support
 
-Customer Experience and Engagement
-Customer service is one of the top areas where organizations see immediate ROI from AI implementations.
+AI가 핵심 비즈니스 프로세스에 미치는 영향은 이 기술이 단순한 스크립트된 자동화를 어떻게 초월하는지 보여줍니다. 현대 AI는 의사결정에 있어 전략적 파트너로 기능합니다. 단순히 라우팅 작업을 처리하는 것이 아니라 팀이 더 나은 의사결정을 내리도록 돕습니다. 방대한 양의 데이터를 즉시 처리하고 패턴을 감지하며 최적화를 제안할 수 있는 조수라고 할 수 있습니다.
 
-Modern AI-powered customer service systems do far more than simply answer basic questions. They understand and process natural language to understand intent, whether the customer is typing or speaking. The conversation flows are enriched and personalized by every past interaction, purchase history, and account details. When complex issues arise, these systems know how to intelligently route customers to specialists and provide them with AI-generated context, real-time insights, and response suggestions.
+비즈니스 프로세스 자동화 및 의사결정 지원에서 AI의 일반적인 응용 분야는 다음과 같습니다:
 
-Business Process Automation and Decision Support
-The impact of AI on core business processes reveals how this technology goes beyond simple scripted automation. Modern AI serves as a strategic partner in decision making. It’s not just handling routing tasks, it’s helping teams make smarter decisions. It’s a sidekick that can instantly process vast amounts of data, spot patterns, and suggest optimizations.
-
-Common applications of AI in business process automation and decision support include:
-
-Automated document processing and data extraction
-
-Intelligent workflow routing
-
-Fraud detection and risk assessment
-
-Supply chain optimization
-
-Demand forecasting
-
-Resource allocation
-
-Quality control and anomaly detection
-
-Predictive maintenance
+- 자동화된 문서 처리 및 데이터 추출
+- 지능형 워크플로우 라우팅
+- 사기 탐지 및 위험 평가
+- 공급망 최적화
+- 수요 예측
+- 자원 할당
+- 품질 관리 및 이상 탐지
+- 예측 유지보수
 
 These systems can process vast amounts of data to identify patterns, make predictions, and suggest optimizations that would be impossible for humans to discover manually.
 
-Software Development and Engineering
+### Software Development and Engineering
+
 In software development and engineering, AI can enhance human creativity and expertise, and improve developer experience by reducing repetitive tasks, which allows developers to spend more time focused on the business logic. However it has not (yet) reached or surpassed humans, and it hasn’t eliminated the need for human oversight. Development teams now work alongside AI tools that can suggest code improvements, automate testing processes, and help maintain system health. Working with an AI coding assistant is mind-blowing. It’s like having another developer looking over your shoulder 24/7, but one that can instantly recall code patterns and best practices.
 
 AI-powered code-generation tools and assistants such as Copilot from Github, v0 by Vercel, Bolt.new from StackBlitz, and even out-of-the-box models from OpenAI or Anthropic are invaluable to developers and can:
 
-Generate code snippets and complete functions
+- Generate code snippets and complete functions
 
-Suggest optimizations and identify potential bugs
+- Suggest optimizations and identify potential bugs
 
-Automate testing processes
+- Automate testing processes
 
-Help maintain documentation
+- Help maintain documentation
 
-Assist with code reviews
+- Assist with code reviews
 
-Generate API documentation
+- Generate API documentation
 
-Create and optimize database queries
+- Create and optimize database queries
 
-Debug complex issues
+- Debug complex issues
 
-Sales and Marketing
+### Sales and Marketing
+
 Organizations are leveraging AI for sophisticated customer segmentation and targeting, while using content personalization to deliver tailored experiences at scale.
 
 AI systems excel at lead scoring and qualification, helping sales teams focus their efforts on the most promising opportunities. Marketing teams benefit from AI-driven campaign optimization and comprehensive social media monitoring and analysis, while also using AI to generate marketing copy and analyze A/B tests more effectively.
 
 The technology also helps prevent customer churn through predictive analytics and optimizes conversion rates through intelligent customer behavior analysis. Together, these AI-powered tools enable teams to create more effective campaigns, identify promising leads, and optimize their marketing spend with unprecedented precision.
 
-Health Care
+### Health Care
+
 Health care providers use AI for sophisticated medical image analysis, more accurate disease diagnosis, and personalized treatment planning.
 
 The technology enables continuous patient monitoring and automated drug interaction checking, while streamlining health care records management and appointment scheduling. AI also facilitates better matching of patients with appropriate clinical trials and enables comprehensive population health analysis.
 
 AI allows health care providers to offer better patient care while simultaneously reducing costs and administrative burdens, ultimately leading to more efficient and effective health care systems.
 
-The Challenges of Implementing AI and LLMs
+## The Challenges of Implementing AI and LLMs
 As organizations move from experimental AI projects to production deployments, they encounter complex challenges that traditional networking infrastructure wasn’t designed to address. Understanding these challenges is crucial for building effective, secure, and governable AI systems.
 
-Security and Access Control
+### Security and Access Control
 The most critical security challenges that organizations face when adopting AI center around data privacy and provider trust. Organizations must consider the risk of their proprietary or sensitive information being incorporated into training datasets or being exposed through provider breaches. These concerns are particularly acute given that compromised provider systems could potentially expose not just the raw data, but also queries and responses that might reveal organizational insights or strategies.
 
 Beyond these fundamental concerns, organizations must also tackle the practical challenges of managing access to AI providers securely and efficiently. Unlike traditional APIs, AI services require dynamic access control that can adapt to varying usage patterns and security requirements. Traditional networking tools like routers and firewalls fall short, as they often lack provisions to manage credentials or semantically understand data in transit properly.
 
 Organizations frequently struggle with API key proliferation, where keys might accidentally be hardcoded into applications or exposed in configuration files. This challenge is compounded by inconsistent access controls across teams and applications, making it difficult to maintain security standards. Additionally, organizations must navigate complex regulatory data compliance requirements for personally identifiable information (PII), the Health Insurance Portability and Accountability Act (HIPAA), and the General Data Protection Regulation (GDPR), which traditional security tools aren’t equipped to handle due to their lack of semantic understanding.
 
-Prompt Management and Data Protection
+### Prompt Management and Data Protection
 When employees interact with LLMs, they might include sensitive company or customer information in their prompts as the context to the LLM. Similarly, the LLMs might inadvertently include sensitive information in their responses to the users. This creates a significant security challenge: how do you prevent unauthorized data exposure while still allowing productive AI use?
 
 Organizations need comprehensive prompt management capabilities that include robust guardrails for detecting and masking sensitive information. These systems must provide consistent prompt augmentation across all interactions while maintaining standardized policies for prompt structure and content. Similar to how web application firewalls (WAFs) protect traditional web applications, AI systems require specialized input validation and output constraints to ensure data security and compliance.
 
-Consumption Control and Resource Optimization
+### Consumption Control and Resource Optimization
 LLM providers like OpenAI, Anthropic, and others make their models available through REST APIs. At a technical level, using an LLM is similar to making any other API call—you send a request with your text and receive the model’s response. This consumption-based nature of LLMs creates unique challenges for cost management and resource optimization. Organizations struggle with attributing costs across different teams and projects, especially as usage patterns vary significantly. This requires sophisticated systems for tracking and controlling resource consumption through token-weighted controls.
 
 Semantic caching presents a particular opportunity for optimization, as many similar queries can be served from cache rather than making redundant API calls. Organizations must also implement intelligent model selection strategies, choosing the most cost-effective model for each use case while maintaining quality standards.
 
-Resilience and Performance
+### Resilience and Performance
 Traditional load-balancing strategies fall short in AI systems because they don’t account for the semantic nature of queries or key performance metrics like latency (time to first token, or TTFT) and throughput (tokens per second, or TPS). Organizations need intelligent, context-aware systems that can effectively cache similar queries and distribute workloads based on semantic understanding rather than simple request patterns.
 
 Failover mechanisms in AI systems must be more sophisticated than in traditional applications, as organizations often need to switch between different AI providers or models based on performance, cost, or specific use case requirements, while maintaining consistent TTFT and TPS. Cost management adds another layer of complexity, as LLMs operate on a pay-as-you-use basis, where costs are calculated based on tokens, individual units of text that LLMs process. For example, while “dog” counts as one token, longer words like “companionship” might be broken into multiple tokens. This token-based pricing model means that failover decisions must balance performance requirements with cost implications.
@@ -150,7 +155,7 @@ These challenges cannot be effectively addressed through simple application-leve
 
 This is where AI gateways come in. They are specialized tools that sit between applications and AI services and provide comprehensive solutions for these challenges. An AI gateway serves as a control plane for managing AI operations, providing organization-wide semantic request routing, intelligent caching, cost optimization, and AI provider failover capabilities. By handling these concerns at the infrastructure level rather than the application level, AI gateways enable organizations to implement consistent policies and optimizations across all their AI workloads, while reducing complexity for application developers.
 
-Barriers to Seamless AI Integration
+## Barriers to Seamless AI Integration
 While organizations understand AI’s transformative potential, several fundamental barriers can impede successful integration into existing enterprise environments.
 
 Most enterprises operate complex landscapes of legacy systems that weren’t designed with AI in mind. These systems often use outdated data formats, incompatible APIs, and rigid architectures, with data siloed across disparate sources—from isolated relational databases and cloud-based document stores like SharePoint to flat files scattered across file servers and employee workstations. Some information may also exist only in physical formats like paper records or legacy offline media. This fragmented data landscape, combined with rigid architectures, makes AI integration particularly challenging. Real-time data access, essential for many AI applications, becomes especially problematic when dealing with such distributed and heterogeneous legacy infrastructure.
@@ -163,7 +168,7 @@ Integrating AI capabilities across an enterprise requires careful architectural 
 
 These barriers highlight the need for a solution that can abstract away complexity while providing the necessary controls and optimizations for enterprise AI deployment.
 
-Overview of the AI Gateway Solution
+## Overview of the AI Gateway Solution
 An AI gateway is a specialized API gateway that can semantically understand requests and responses to handle and manage AI interactions. This understanding enables capabilities that traditional networking solutions cannot provide. It serves as an intelligent intermediary for AI traffic, providing sophisticated management capabilities that enhance applications’ interactions with AI services. This intelligence is crucial for several reasons.
 
 First, the gateway provides sophisticated credentials and data management that traditional networking components like firewalls cannot deliver. It securely handles API keys, prevents sensitive data exposure, and ensures compliance with regulatory requirements—challenges that become increasingly complex as organizations scale their AI usage. Moreover, the AI gateway makes the processing of these concerns consistent across all infrastructure, including across multiple LLM instances.
@@ -174,7 +179,8 @@ Third, it provides comprehensive visibility and control over LLM operations. Org
 
 As we’ll examine in the following chapters, traditional networking approaches fail to handle these unique aspects of AI systems. Understanding these limitations—and how an AI gateway addresses them—is crucial for organizations looking to build robust, secure, and scalable AI infrastructure. We’ll explore the specific challenges around security and compliance, resilience, and operational control, then dive into the architectural patterns and best practices for implementing an AI gateway in your environment.
 
-Chapter 2. The AI Gateway: Bridging the Gaps
+# Chapter 2. The AI Gateway: Bridging the Gaps
+
 As organizations embrace AI and LLMs, architects and IT leaders must prioritize the safe and secure adoption of these transformative technologies. In this chapter, we’ll explore the new challenges that arise when applications integrate LLMs and why traditional approaches—like conventional networking—must evolve to incorporate specialized tools tailored to this new paradigm. We will take a look at using a smart intermediary, an AI gateway, and how it improves security, observability, and performance for AI/LLM interaction, which complement traditional networking.
 
 Why Traditional Networking Falls Short for AI Systems
@@ -264,7 +270,7 @@ AI gateways designed with automation-first principles, such as GitOps and IaC, c
 
 As organizations introduce AI and LLM usage, an AI gateway becomes crucial. It acts as a bridge, weaving advanced semantic understanding into workflows to mitigate the risks of escalating costs, data privacy concerns, and compliance complexities—key issues in enterprise environments. An AI gateway designed with the previously discussed best practices (separation of concerns, powerful proxy, declarative configuration, and open source) is designed to integrate nicely into internal developer portals. In the next chapter, we look at an AI gateway implementation that was built with these best practices.
 
-Chapter 3. Common AI Gateway Use Cases
+# Chapter 3. Common AI Gateway Use Cases
 In the previous chapter, we introduced the concept of an AI gateway and explained why traditional networking falls short. This chapter will explore how enterprises can use an AI gateway to solve real-world challenges.
 
 As we explore these use cases, we’ll reference an AI gateway implementation as an example. Users should choose an AI gateway built on modern architectures including Envoy Proxy and Kubernetes Gateway API. Gateways like Gloo AI Gateway (being donated to Cloud Native Computing Foundation—CNCF—as KGateway) enable AI features that accelerate AI application development while addressing critical security, observability, control, and governance needs.
@@ -533,7 +539,7 @@ AI gateways serve as a critical foundation for enterprise AI adoption by providi
 
 In the next chapter, we’ll look ahead at how these foundational capabilities will evolve in the future.
 
-Chapter 4. The Future of Enterprise AI
+# Chapter 4. The Future of Enterprise AI
 AI makes for an exciting and innovative period of time in information technology. While many organizations are leveraging AI to either optimize and make business workflows more efficient, or to innovate and provide better user experiences, we believe more and more use cases will take advantage of this technology. Scaling AI use cases and adoption will require specialized tooling that is “AI-aware” such as an AI gateway as discussed in this report. Let’s see how the future of AI in enterprises contributes to the challenges of scale, security, observability, and compliance.
 
 Improvement of Models, Continued Adoption
