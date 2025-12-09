@@ -86,105 +86,103 @@ AI가 핵심 비즈니스 프로세스에 미치는 영향은 이 기술이 단�
 - 품질 관리 및 이상 탐지
 - 예측 유지보수
 
-These systems can process vast amounts of data to identify patterns, make predictions, and suggest optimizations that would be impossible for humans to discover manually.
+이러한 시스템은 방대한 양의 데이터를 처리해 패턴을 식별하고, 예측을 수행하며, 사람이 수작업으로는 발견할 수 없는 최적화 방안을 제안할 수 있습니다.
 
 ### Software Development and Engineering
 
-In software development and engineering, AI can enhance human creativity and expertise, and improve developer experience by reducing repetitive tasks, which allows developers to spend more time focused on the business logic. However it has not (yet) reached or surpassed humans, and it hasn’t eliminated the need for human oversight. Development teams now work alongside AI tools that can suggest code improvements, automate testing processes, and help maintain system health. Working with an AI coding assistant is mind-blowing. It’s like having another developer looking over your shoulder 24/7, but one that can instantly recall code patterns and best practices.
+소프트웨어 개발 및 엔지니어링 분야에서 AI는 인간의 창의성과 전문성을 증강시키고, 반복적인 작업을 줄여 개발자 경험을 개선함으로써 개발자가 비즈니스 로직에 더 많은 시간을 할애할 수 있게 합니다. 그러나 아직 AI가 인간을 능가하거나 완전히 대체한 것은 아니며, 인간의 감독 필요성은 사라지지 않았습니다. 개발팀은 이제 코드 개선을 제안하고, 테스트 과정을 자동화하며, 시스템 상태 유지를 돕는 AI 도구와 함께 작업하고 있습니다. AI 코딩 어시스턴트와 함께 일하는 경험은 놀라울 정도입니다. 마치 24시간 내내 옆에서 지켜보는 또 다른 개발자가 있는 것 같은데, 그 개발자는 즉시 코드 패턴과 모범 사례를 떠올릴 수 있습니다.
 
-AI-powered code-generation tools and assistants such as Copilot from Github, v0 by Vercel, Bolt.new from StackBlitz, and even out-of-the-box models from OpenAI or Anthropic are invaluable to developers and can:
+GitHub의 Copilot, Vercel의 v0, StackBlitz의 Bolt.new, 그리고 OpenAI나 Anthropic의 기본 모델과 같은 AI 기반 코드 생성 도구 및 어시스턴트는 개발자에게 매우 귀중하며 다음을 수행할 수 있습니다:
 
-- Generate code snippets and complete functions
+- 코드 스니펫 및 완전한 함수 생성
 
-- Suggest optimizations and identify potential bugs
+- 최적화를 제안하고 잠재적 버그 식별
 
-- Automate testing processes
+- 테스트 프로세스 자동화
 
-- Help maintain documentation
+- 문서 유지보수 지원
 
-- Assist with code reviews
+- 코드 리뷰 보조
 
-- Generate API documentation
+- API 문서 생성
 
-- Create and optimize database queries
+- 데이터베이스 쿼리 생성 및 최적화
 
-- Debug complex issues
+- 복잡한 문제 디버깅
 
 ### Sales and Marketing
 
-Organizations are leveraging AI for sophisticated customer segmentation and targeting, while using content personalization to deliver tailored experiences at scale.
+조직들은 정교한 고객 세분화 및 타겟팅을 위해 AI를 활용하고 있으며, 콘텐츠 개인화를 통해 대규모로 맞춤형 경험을 제공하고 있습니다.
 
-AI systems excel at lead scoring and qualification, helping sales teams focus their efforts on the most promising opportunities. Marketing teams benefit from AI-driven campaign optimization and comprehensive social media monitoring and analysis, while also using AI to generate marketing copy and analyze A/B tests more effectively.
+AI 시스템은 리드 스코어링 및 적격성 판단에 탁월하여 영업팀이 가장 유망한 기회에 노력을 집중하도록 도와줍니다. 마케팅팀은 AI 기반 캠페인 최적화와 포괄적인 소셜 미디어 모니터링 및 분석에서 혜택을 받으며, AI를 활용해 마케팅 카피를 생성하고 A/B 테스트를 더 효과적으로 분석합니다.
 
-The technology also helps prevent customer churn through predictive analytics and optimizes conversion rates through intelligent customer behavior analysis. Together, these AI-powered tools enable teams to create more effective campaigns, identify promising leads, and optimize their marketing spend with unprecedented precision.
+이 기술은 예측 분석을 통해 고객 이탈을 방지하고, 지능형 고객 행동 분석을 통해 전환율을 최적화합니다. 종합적으로, 이러한 AI 기반 도구들은 팀이 더욱 효과적인 캠페인을 만들고, 유망한 리드를 발굴하며, 전례 없는 정확도로 마케팅 지출을 최적화할 수 있게 해줍니다.
 
 ### Health Care
 
-Health care providers use AI for sophisticated medical image analysis, more accurate disease diagnosis, and personalized treatment planning.
+의료 제공자들은 정교한 의료 이미지 분석, 더욱 정확한 질병 진단, 그리고 맞춤형 치료 계획을 위해 AI를 활용하고 있습니다.
 
-The technology enables continuous patient monitoring and automated drug interaction checking, while streamlining health care records management and appointment scheduling. AI also facilitates better matching of patients with appropriate clinical trials and enables comprehensive population health analysis.
+이 기술은 지속적인 환자 모니터링과 자동화된 약물 상호작용 확인을 가능하게 하며, 의료 기록 관리 및 예약 일정 관리를 간소화합니다. AI는 또한 환자와 적절한 임상 시험의 매칭을 촉진하고 포괄적인 인구 건강 분석을 가능하게 합니다.
 
-AI allows health care providers to offer better patient care while simultaneously reducing costs and administrative burdens, ultimately leading to more efficient and effective health care systems.
+AI를 통해 의료 제공자들은 비용과 행정 부담을 동시에 줄이면서 더욱 나은 환자 돌봄을 제공할 수 있으며, 궁극적으로는 더욱 효율적이고 효과적인 의료 시스템으로 이어집니다.
 
 ## The Challenges of Implementing AI and LLMs
-As organizations move from experimental AI projects to production deployments, they encounter complex challenges that traditional networking infrastructure wasn’t designed to address. Understanding these challenges is crucial for building effective, secure, and governable AI systems.
+조직들이 실험 단계의 AI 프로젝트에서 프로덕션 배포로 이동할 때, 전통적인 네트워킹 인프라가 대처하도록 설계되지 않은 복잡한 과제에 직면하게 됩니다. 효과적이고 안전하며 통제 가능한 AI 시스템을 구축하기 위해서는 이러한 과제들을 이해하는 것이 매우 중요합니다.
 
 ### Security and Access Control
-The most critical security challenges that organizations face when adopting AI center around data privacy and provider trust. Organizations must consider the risk of their proprietary or sensitive information being incorporated into training datasets or being exposed through provider breaches. These concerns are particularly acute given that compromised provider systems could potentially expose not just the raw data, but also queries and responses that might reveal organizational insights or strategies.
+조직들이 AI를 도입할 때 직면하는 가장 심각한 보안 과제는 데이터 개인정보 보호 및 제공자 신뢰를 중심으로 합니다. 조직들은 자신의 독점 정보나 민감한 정보가 훈련 데이터 세트에 포함되거나 제공자 침해를 통해 노출될 위험을 고려해야 합니다. 손상된 제공자 시스템이 원본 데이터뿐만 아니라 조직의 통찰력이나 전략을 드러낼 수 있는 쿼리 및 응답도 노출시킬 수 있다는 점을 감안할 때, 이러한 우려는 특히 심각합니다.
 
-Beyond these fundamental concerns, organizations must also tackle the practical challenges of managing access to AI providers securely and efficiently. Unlike traditional APIs, AI services require dynamic access control that can adapt to varying usage patterns and security requirements. Traditional networking tools like routers and firewalls fall short, as they often lack provisions to manage credentials or semantically understand data in transit properly.
+이러한 근본적인 우려 외에도, 조직들은 AI 제공자에 대한 접근을 안전하고 효율적으로 관리하는 실질적인 과제에도 직면해야 합니다. 전통적인 API와 달리, AI 서비스는 다양한 사용 패턴과 보안 요구사항에 적응할 수 있는 동적 접근 제어가 필요합니다. 라우터 및 방화벽과 같은 전통적인 네트워킹 도구는 자격증명 관리나 전송 중인 데이터의 의미론적 이해를 위한 프로비저닝이 부족하기 때문에 충분하지 않습니다.
 
-Organizations frequently struggle with API key proliferation, where keys might accidentally be hardcoded into applications or exposed in configuration files. This challenge is compounded by inconsistent access controls across teams and applications, making it difficult to maintain security standards. Additionally, organizations must navigate complex regulatory data compliance requirements for personally identifiable information (PII), the Health Insurance Portability and Accountability Act (HIPAA), and the General Data Protection Regulation (GDPR), which traditional security tools aren’t equipped to handle due to their lack of semantic understanding.
+조직들은 API 키 확산 문제로 자주 어려움을 겪고 있으며, 여기서 키가 실수로 애플리케이션에 하드코딩되거나 구성 파일에 노출될 수 있습니다. 이 문제는 팀 및 애플리케이션 전반에 걸친 일관되지 않은 접근 제어로 인해 더욱 복잡해져서 보안 표준을 유지하기 어렵게 만듭니다. 추가적으로, 조직들은 개인식별정보(PII), 건강보험이동성과책임법(HIPAA), 그리고 일반 데이터 보호 규정(GDPR)에 대한 복잡한 규제 데이터 준수 요구사항을 탐색해야 하며, 전통적인 보안 도구들은 의미론적 이해의 부족으로 인해 이를 처리할 수 없습니다.
 
 ### Prompt Management and Data Protection
-When employees interact with LLMs, they might include sensitive company or customer information in their prompts as the context to the LLM. Similarly, the LLMs might inadvertently include sensitive information in their responses to the users. This creates a significant security challenge: how do you prevent unauthorized data exposure while still allowing productive AI use?
+직원들이 LLM과 상호작용할 때, 프롬프트의 맥락으로 민감한 회사 또는 고객 정보를 포함시킬 수 있습니다. 마찬가지로 LLM도 의도하지 않게 응답에 민감한 정보를 포함시킬 수 있습니다. 이는 생산적인 AI 사용을 허용하면서도 허가되지 않은 데이터 노출을 방지하는 방법이라는 중대한 보안 과제를 야기합니다.
 
-Organizations need comprehensive prompt management capabilities that include robust guardrails for detecting and masking sensitive information. These systems must provide consistent prompt augmentation across all interactions while maintaining standardized policies for prompt structure and content. Similar to how web application firewalls (WAFs) protect traditional web applications, AI systems require specialized input validation and output constraints to ensure data security and compliance.
+조직들은 민감한 정보를 탐지하고 마스킹하기 위한 강력한 가드레일을 포함하는 포괄적인 프롬프트 관리 기능이 필요합니다. 이러한 시스템은 모든 상호작용 간에 일관된 프롬프트 확강을 제공하면서 프롬프트 구조 및 콘텐츠에 대한 표준화된 정책을 유지해야 합니다. 웹 애플리케이션 방화벽(WAF)이 전통적인 웹 애플리케이션을 보호하는 방식과 유사하게, AI 시스템은 데이터 보안 및 규정 준수를 보장하기 위해 특화된 입력 검증 및 출력 제약이 필요합니다.
 
 ### Consumption Control and Resource Optimization
-LLM providers like OpenAI, Anthropic, and others make their models available through REST APIs. At a technical level, using an LLM is similar to making any other API call—you send a request with your text and receive the model’s response. This consumption-based nature of LLMs creates unique challenges for cost management and resource optimization. Organizations struggle with attributing costs across different teams and projects, especially as usage patterns vary significantly. This requires sophisticated systems for tracking and controlling resource consumption through token-weighted controls.
+OpenAI, Anthropic 등의 LLM 제공자들은 REST API를 통해 모델을 제공합니다. 기술적 수준에서 LLM 사용은 다른 API 호출과 유사합니다. 텍스트가 포함된 요청을 보내고 모델의 응답을 받습니다. LLM의 이러한 소비 기반의 특성은 비용 관리 및 리소스 최적화를 위한 고유한 과제를 야기합니다. 조직들은 특히 사용 패턴이 크게 다양할 때 여러 팀과 프로젝트 전반에 걸쳐 비용을 할당하는 데 어려움을 겪습니다. 이는 토큰 가중 제어를 통한 리소스 소비 추적 및 제어를 위한 정교한 시스템이 필요합니다.
 
-Semantic caching presents a particular opportunity for optimization, as many similar queries can be served from cache rather than making redundant API calls. Organizations must also implement intelligent model selection strategies, choosing the most cost-effective model for each use case while maintaining quality standards.
+의미론적 캐싱은 최적화를 위한 특별한 기회를 제시합니다. 많은 유사한 쿼리가 중복 API 호출을 하지 않고 캐시에서 제공될 수 있기 때문입니다. 조직들은 또한 품질 표준을 유지하면서 각 사용 사례에 가장 비용 효율적인 모델을 선택하는 지능형 모델 선택 전략을 구현해야 합니다.
 
 ### Resilience and Performance
-Traditional load-balancing strategies fall short in AI systems because they don’t account for the semantic nature of queries or key performance metrics like latency (time to first token, or TTFT) and throughput (tokens per second, or TPS). Organizations need intelligent, context-aware systems that can effectively cache similar queries and distribute workloads based on semantic understanding rather than simple request patterns.
+전통적인 로드 밸런싱 전략은 AI 시스템에서 부족한데, 쿼리의 의미론적 특성이나 지연시간(첫 토큰까지의 시간, TTFT) 및 처리량(초당 토큰 수, TPS)과 같은 주요 성능 지표를 고려하지 않기 때문입니다. 조직들은 단순한 요청 패턴이 아닌 의미론적 이해를 기반으로 유사한 쿼리를 효과적으로 캐시하고 워크로드를 분산시킬 수 있는 지능적이고 상황인식적인 시스템이 필요합니다.
 
-Failover mechanisms in AI systems must be more sophisticated than in traditional applications, as organizations often need to switch between different AI providers or models based on performance, cost, or specific use case requirements, while maintaining consistent TTFT and TPS. Cost management adds another layer of complexity, as LLMs operate on a pay-as-you-use basis, where costs are calculated based on tokens, individual units of text that LLMs process. For example, while “dog” counts as one token, longer words like “companionship” might be broken into multiple tokens. This token-based pricing model means that failover decisions must balance performance requirements with cost implications.
+AI 시스템의 페일오버 메커니즘은 전통적인 애플리케이션보다 더 정교해야 합니다. 조직들은 일관된 TTFT와 TPS를 유지하면서 성능, 비용 또는 특정 사용 사례 요구사항에 따라 다양한 AI 제공자 또는 모델 간에 전환해야 하기 때문입니다. 비용 관리는 또 다른 복잡성 계층을 추가합니다. LLM은 종량제 방식으로 작동하며, 비용은 LLM이 처리하는 텍스트의 개별 단위인 토큰을 기반으로 계산되기 때문입니다. 예를 들어 "dog"는 1개의 토큰으로 계산되지만, "companionship"과 같은 긴 단어는 여러 토큰으로 분해될 수 있습니다. 이 토큰 기반 가격 책정 모델은 페일오버 결정이 성능 요구사항과 비용 영향을 균형있게 고려해야 함을 의미합니다.
 
-These challenges cannot be effectively addressed through simple application-level preprocessing or basic routing logic. Such approaches would require each application to independently implement complex semantic analysis, maintain multiple vendor connections, handle failover logic, and manage token-based cost optimization—creating substantial duplication of effort and increasing the risk of inconsistencies across the organization. Moreover, application-level solutions would lack the centralized visibility needed for effective cost management and compliance monitoring.
+이러한 과제들은 단순한 애플리케이션 수준의 전처리 또는 기본 라우팅 로직으로는 효과적으로 해결할 수 없습니다. 이러한 접근 방식을 사용하려면 각 애플리케이션이 독립적으로 복잡한 의미론적 분석을 구현하고, 여러 공급업체 연결을 유지하며, 페일오버 로직을 처리하고, 토큰 기반 비용 최적화를 관리해야 하므로, 상당한 작업의 중복을 야기하고 조직 전체에서 불일치의 위험을 증가시킵니다. 또한 애플리케이션 수준의 솔루션은 효과적인 비용 관리 및 규정 준수 모니터링에 필요한 중앙 집중식 가시성을 부족하게 됩니다.
 
-This is where AI gateways come in. They are specialized tools that sit between applications and AI services and provide comprehensive solutions for these challenges. An AI gateway serves as a control plane for managing AI operations, providing organization-wide semantic request routing, intelligent caching, cost optimization, and AI provider failover capabilities. By handling these concerns at the infrastructure level rather than the application level, AI gateways enable organizations to implement consistent policies and optimizations across all their AI workloads, while reducing complexity for application developers.
+여기서 AI 게이트웨이가 나옵니다. 이들은 애플리케이션과 AI 서비스 사이에 위치하여 이러한 과제들에 대한 포괄적인 솔루션을 제공하는 특화된 도구입니다. AI 게이트웨이는 AI 운영을 관리하기 위한 제어 평면 역할을 하며, 조직 전체의 의미론적 요청 라우팅, 지능형 캐싱, 비용 최적화, 그리고 AI 제공자 페일오버 기능을 제공합니다. 이러한 문제들을 애플리케이션 수준이 아닌 인프라 수준에서 처리함으로써, AI 게이트웨이는 조직이 모든 AI 워크로드에 걸쳐 일관된 정책과 최적화를 구현할 수 있게 하면서 애플리케이션 개발자의 복잡성을 줄입니다.조직들이 AI의 변혁적 잠재력을 이해하고 있음에도 불구하고, 기존 엔터프라이즈 환경으로의 성공적인 통합을 방해할 수 있는 몇 가지 근본적인 장애물이 있습니다.
 
-## Barriers to Seamless AI Integration
-While organizations understand AI’s transformative potential, several fundamental barriers can impede successful integration into existing enterprise environments.
+대부분의 기업들은 AI를 염두에 두고 설계되지 않은 레거시 시스템의 복잡한 환경에서 운영됩니다. 이러한 시스템들은 종종 구식 데이터 형식, 호환되지 않는 API, 그리고 경직된 아키텍처를 사용하며, 데이터는 고립된 관계형 데이터베이스와 SharePoint 같은 클라우드 기반 문서 저장소에서부터 파일 서버와 직원 워크스테이션에 흩어져 있는 플랫 파일에 이르기까지 다양한 소스에 사일로화되어 있습니다. 일부 정보는 종이 기록이나 레거시 오프라인 미디어와 같은 물리적 형식으로만 존재할 수도 있습니다. 이러한 단편화된 데이터 환경과 경직된 아키텍처가 결합되면서 AI 통합을 특히 어렵게 만듭니다. 많은 AI 애플리케이션에 필수적인 실시간 데이터 접근은 이러한 분산되고 이질적인 레거시 인프라를 다룰 때 특히 문제가 됩니다.
 
-Most enterprises operate complex landscapes of legacy systems that weren’t designed with AI in mind. These systems often use outdated data formats, incompatible APIs, and rigid architectures, with data siloed across disparate sources—from isolated relational databases and cloud-based document stores like SharePoint to flat files scattered across file servers and employee workstations. Some information may also exist only in physical formats like paper records or legacy offline media. This fragmented data landscape, combined with rigid architectures, makes AI integration particularly challenging. Real-time data access, essential for many AI applications, becomes especially problematic when dealing with such distributed and heterogeneous legacy infrastructure.
+기술적 과제 외에도, 조직들은 상당한 운영상 장애물에 직면합니다. AI 기반 시스템으로의 전환은 새로운 기술, 역할, 그리고 프로세스를 필요로 합니다. 팀들은 프롬프트 엔지니어링, 모델 선택, 그리고 AI 운영에 대한 전문성을 개발해야 합니다. AI 도입에 대한 저항을 극복하려면 종종 상당한 훈련 투자와 문화 변화가 필요합니다.
 
-Beyond technical challenges, organizations face significant operational hurdles. The shift to AI-powered systems requires new skills, roles, and processes. Teams need to develop expertise in prompt engineering, model selection, and AI operations. Overcoming resistance to AI adoption often requires substantial training investment and cultural change.
+AI 시스템은 입력 데이터만큼만 좋습니다. 조직들은 일관되지 않은 데이터 형식, 시스템 전반의 구식 정보, 그리고 실시간 동기화 과제로 인해 어려움을 겪습니다. 적절한 데이터 표준화 및 정제 프로세스가 없으면, AI 구현은 신뢰할 수 없거나 일관되지 않은 결과를 제공할 수 있습니다.
 
-AI systems are only as good as their data inputs. Organizations struggle with inconsistent data formats, outdated information across systems, and real-time synchronization challenges. Without proper data standardization and cleaning processes, AI implementations may deliver unreliable or inconsistent results.
+엔터프라이즈 전체에 AI 기능을 통합하려면 신중한 아키텍처 고려가 필요합니다. 조직들은 여러 AI 제공자를 관리하고, 다양한 응답 형식을 처리하며, 강력한 오류 처리를 구현하고, 시스템 안정성을 보장해야 합니다. 이러한 복잡성은 새로운 AI 통합 지점이 추가될 때마다 증가하므로, 중앙 집중식 관리 및 모니터링이 필수적입니다.
 
-Integrating AI capabilities across an enterprise requires careful architectural consideration. Organizations must manage multiple AI providers, handle different response formats, implement robust error handling, and ensure system reliability. This complexity increases with each new AI integration point, making centralized management and monitoring essential.
-
-These barriers highlight the need for a solution that can abstract away complexity while providing the necessary controls and optimizations for enterprise AI deployment.
+이러한 장애물들은 엔터프라이즈 AI 배포를 위한 필요한 제어 및 최적화를 제공하면서 복잡성을 추상화할 수 있는 솔루션의 필요성을 강조합니다.
 
 ## Overview of the AI Gateway Solution
-An AI gateway is a specialized API gateway that can semantically understand requests and responses to handle and manage AI interactions. This understanding enables capabilities that traditional networking solutions cannot provide. It serves as an intelligent intermediary for AI traffic, providing sophisticated management capabilities that enhance applications’ interactions with AI services. This intelligence is crucial for several reasons.
+AI 게이트웨이는 요청과 응답을 의미론적으로 이해하여 AI 상호작용을 처리하고 관리할 수 있는 특화된 API 게이트웨이입니다. 이러한 이해 능력은 기존 네트워킹 솔루션이 제공할 수 없는 기능을 활성화합니다. AI 트래픽을 위한 지능형 중개자로서 역할하며, 애플리케이션과 AI 서비스의 상호작용을 강화하는 정교한 관리 기능을 제공합니다. 이러한 지능은 여러 가지 이유로 매우 중요합니다.
 
-First, the gateway provides sophisticated credentials and data management that traditional networking components like firewalls cannot deliver. It securely handles API keys, prevents sensitive data exposure, and ensures compliance with regulatory requirements—challenges that become increasingly complex as organizations scale their AI usage. Moreover, the AI gateway makes the processing of these concerns consistent across all infrastructure, including across multiple LLM instances.
+첫째, 게이트웨이는 방화벽과 같은 기존 네트워킹 구성요소가 제공할 수 없는 정교한 자격증명 및 데이터 관리를 제공합니다. API 키를 안전하게 처리하고, 민감한 데이터 노출을 방지하며, 규제 요구사항 준수를 보장합니다. 이러한 과제들은 조직이 AI 사용을 확대함에 따라 점점 더 복잡해집니다. 더욱이, AI 게이트웨이는 여러 LLM 인스턴스를 포함한 모든 인프라 전체에서 이러한 우려사항들의 처리를 일관되게 만들어줍니다.
 
-Second, it implements AI-specific performance optimizations. The gateway can intelligently load balance requests based on their semantic content, cache similar queries to reduce costs and latency, and manage sophisticated failover between different AI providers when needed.
+둘째, AI 특화 성능 최적화를 구현합니다. 게이트웨이는 의미론적 콘텐츠를 기반으로 요청을 지능형으로 로드 밸런싱할 수 있으며, 유사한 쿼리를 캐싱하여 비용과 지연시간을 줄이고, 필요할 때 서로 다른 AI 제공자 간의 정교한 페일오버를 관리할 수 있습니다.
 
-Third, it provides comprehensive visibility and control over LLM operations. Organizations can monitor usage patterns, implement cost controls based on token consumption, and enforce guardrails that prevent harmful or noncompliant LLM interactions. These capabilities prove essential as organizations scale from initial AI experiments to production deployments.
+셋째, LLM 운영에 대한 포괄적인 가시성과 제어를 제공합니다. 조직은 사용 패턴을 모니터링하고, 토큰 소비를 기반으로 비용 제어를 구현하며, 해로운 또는 규정 미준수 LLM 상호작용을 방지하는 가드레일을 강제할 수 있습니다. 이러한 기능들은 조직이 초기 AI 실험에서 프로덕션 배포로 확대할 때 필수적입니다.
 
-As we’ll examine in the following chapters, traditional networking approaches fail to handle these unique aspects of AI systems. Understanding these limitations—and how an AI gateway addresses them—is crucial for organizations looking to build robust, secure, and scalable AI infrastructure. We’ll explore the specific challenges around security and compliance, resilience, and operational control, then dive into the architectural patterns and best practices for implementing an AI gateway in your environment.
+다음 장에서 살펴볼 것처럼, 기존 네트워킹 접근 방식은 AI 시스템의 이러한 고유한 측면들을 처리하지 못합니다. 이러한 한계와 AI 게이트웨이가 어떻게 이를 해결하는지를 이해하는 것은 견고하고 안전하며 확장 가능한 AI 인프라를 구축하려는 조직에게 매우 중요합니다. 보안 및 규정 준수, 복원력, 운영 제어 관련 구체적인 과제들을 살펴보고, AI 게이트웨이 구현을 위한 아키텍처 패턴과 모범 사례를 심화 학습할 것입니다.
 
 # Chapter 2. The AI Gateway: Bridging the Gaps
 
-As organizations embrace AI and LLMs, architects and IT leaders must prioritize the safe and secure adoption of these transformative technologies. In this chapter, we’ll explore the new challenges that arise when applications integrate LLMs and why traditional approaches—like conventional networking—must evolve to incorporate specialized tools tailored to this new paradigm. We will take a look at using a smart intermediary, an AI gateway, and how it improves security, observability, and performance for AI/LLM interaction, which complement traditional networking.
+조직들이 AI와 LLM을 채택함에 따라 아키텍트와 IT 리더는 이러한 변혁적 기술의 안전하고 안보된 도입을 우선시해야 합니다. 이 장에서는 애플리케이션이 LLM과 통합할 때 발생하는 새로운 과제와 기존 접근 방식—예컨대 기존 네트워킹—이 이 새로운 패러다임에 맞게 설계된 특화된 도구를 포함하도록 어떻게 발전해야 하는지 살펴보겠습니다. 스마트 중개자인 AI 게이트웨이 사용을 살펴보고, 이것이 AI/LLM 상호작용의 보안, 관찰성, 성능을 어떻게 개선하는지 그리고 이것이 기존 네트워킹을 어떻게 보완하는지 알아보겠습니다.
 
-Why Traditional Networking Falls Short for AI Systems
-To understand where traditional networking falls short, let’s take a look at a typical LLM interaction. LLMs are typically exposed through an API interface. Many LLMs have standardized on the OpenAI REST API but there are other options as well (e.g., Amazon Bedrock and Google Vertex). To make a call to an LLM, a client will prepare an HTTP request with the appropriate API keys in the headers and an appropriate prompt message for the LLM and send it over the network. For example, a client calling OpenAI from the command line would prepare a request like this:
+기존 네트워킹이 AI 시스템에 대처하지 못하는 이유
+
+기존 네트워킹이 어디에서 부족한지 이해하기 위해 일반적인 LLM 상호작용을 살펴보겠습니다. LLM은 일반적으로 API 인터페이스를 통해 노출됩니다. 많은 LLM이 OpenAI REST API를 표준화했지만 다른 옵션도 존재합니다(예: Amazon Bedrock 및 Google Vertex). LLM을 호출하려면 클라이언트가 헤더에 적절한 API 키를 포함하고 LLM을 위한 적절한 프롬프트 메시지를 포함한 HTTP 요청을 준비하여 네트워크를 통해 보냅니다. 예를 들어, 명령줄에서 OpenAI를 호출하는 클라이언트는 다음과 같은 요청을 준비할 것입니다:
 
 curl https://api.openai.com/v1/chat/completions \
   -H "Content-Type: application/json" \
@@ -195,120 +193,108 @@ curl https://api.openai.com/v1/chat/completions \
       {"role": "user", "content": "Hello, how are you?"}
     ]
   }'
-In a typical enterprise system, this HTTP call flows through the network as shown in Figure 2-1. The packets that make up the HTTP request will flow through routers to a firewall that is responsible for enforcing policy such as “is this packet allowed to go to an IP address or network?” From there it will be routed to the internet through an L3/L4 internet gateway. The OpenAI service will receive the request, process it, and return a result, which will flow back through the enterprise network and eventually back to the client.
+일반적인 엔터프라이즈 시스템에서, 이 HTTP 호출은 그림 2-1에 표시된 대로 네트워크를 통해 흐릅니다. HTTP 요청을 구성하는 패킷들은 라우터를 통해 흐르다가 "이 패킷이 특정 IP 주소나 네트워크로 이동할 수 있는가?"와 같은 정책을 시행하는 책임이 있는 방화벽에 도달합니다. 그곳에서 L3/L4 인터넷 게이트웨이를 통해 인터넷으로 라우팅됩니다. OpenAI 서비스는 요청을 수신하고 처리하여 결과를 반환하고, 이 결과는 엔터프라이즈 네트워크를 통해 다시 흐르다가 결국 클라이언트로 돌아갑니다.
 
+그림 2-1. 방화벽과 라우터를 포함하는 일반적인 엔터프라이즈 네트워크를 통해 클라이언트에서 LLM으로 요청이 흐르는 방식
 
-Figure 2-1. Requests flow from a client to the LLM through a typical enterprise network that includes firewalls and routers
-You may be asking, “If this is a simple HTTP request, what’s so special about LLMs?” Great question. This simple LLM API call brings up a number of scenarios that are similar to existing HTTP requests, but also introduces some differences that can cause issues that require specialized API tooling. Let’s dig into what those issues are.
+"이것이 단순한 HTTP 요청이라면 LLM의 뭐가 특별한가?"라고 궁금해할 수도 있습니다. 좋은 질문입니다. 이 단순한 LLM API 호출은 기존의 HTTP 요청과 유사한 많은 시나리오들을 제시하지만, 특화된 API 도구를 필요로 하는 문제를 야기할 수 있는 몇 가지 차이점도 도입합니다. 이러한 문제들이 무엇인지 살펴보겠습니다.
 
 Security Practices
-The first thing you may notice is that the call to the LLM requires an API key that gets sent in one of the headers. This API key is sensitive and should only be sent on HTTPS requests so it’s encrypted on the wire. This happens transparently when calling the OpenAI API for (i.e., by calling https://api.openai.com). But what about storing and retrieving the key to be used in the request? How will developers keep the key safe? If the key is compromised, whether through some nefarious act or by sharing the key with other teams, it will become a security issue.
+장 먼저 눈에 띄는 것은 LLM에 대한 호출이 헤더 중 하나로 전송되는 API 키를 필요로 한다는 점입니다. 이 API 키는 민감한 정보이며 전송 중에 암호화되도록 HTTPS 요청에서만 전송되어야 합니다. OpenAI API를 호출할 때(즉, https://api.openai.com을 호출함으로써) 이는 투명하게 발생합니다. 하지만 요청에 사용될 키를 저장하고 검색하는 것은 어떻게 해야 할까요? 개발자들은 어떻게 키를 안전하게 유지할까요? 키가 악의적인 행위이든 다른 팀과 공유함으로써이든 손상되면 보안 문제가 됩니다.
 
-Unfortunately, with more scale, this means many sensitive API keys scattered around a production environment and higher chances for these keys to get compromised. Not all teams will correctly follow secure practices all of the time. For example, a common scenario is for developers to accidentally hardcode API keys directly into their code and then check that code into a repository. Another practice, unfortunately common, is to see API keys specified in environment-specific configuration files. These key leaks can be very expensive.
+안타깝게도, 규모가 커질수록 이는 프로덕션 환경에 산재된 많은 민감한 API 키들과 이 키들이 손상될 가능성이 높아진다는 것을 의미합니다. 모든 팀이 항상 올바른 보안 관행을 따르지는 않습니다. 예를 들어, 개발자들이 실수로 API 키를 코드에 하드코딩하고 그 코드를 저장소에 커밋하는 것이 흔한 시나리오입니다. 또한, 불행하게도 흔한 관행은 API 키를 환경별 구성 파일에 명시하는 것입니다. 이러한 키 누출은 매우 비용이 많이 들 수 있습니다.
 
-An AI gateway can complement traditional networking security to solve these challenges. We’ll cover how to do this in Chapter 3.
+AI 게이트웨이는 기존 네트워킹 보안을 보완하여 이러한 과제들을 해결할 수 있습니다. 이를 어떻게 수행하는지는 제3장에서 다룰 것입니다.
 
 Resilience
-Latency and load balancing pose significant challenges when integrating LLMs into enterprise workflows. Traditional load-balancing methods, such as round-robin or connection-based strategies, are too simplistic because they don’t take into account the semantic meanings of the prompts or help decide which model is best suited to service a request. Additionally, without semantic understanding, there is no effective way to cache responses for repeated queries, which could significantly reduce latency and server load. Enterprises need intelligent, context-aware systems that can cache similar or identical semantic queries and distribute workloads more effectively to minimize response times and improve system performance.
+지연시간과 로드 밸런싱은 LLM을 엔터프라이즈 워크플로우에 통합할 때 상당한 도전 과제를 제시합니다. 라운드-로빈이나 연결 기반 전략과 같은 전통적인 로드 밸런싱 방법은 너무 단순해서 프롬프트의 의미론적 의미를 고려하지 않거나 어떤 모델이 요청을 처리하기에 가장 적합한지 결정하는 데 도움이 되지 않기 때문입니다. 또한, 의미론적 이해가 없으면 반복되는 쿼리에 대한 응답을 캐시하는 효과적인 방법이 없어서 지연시간과 서버 부하를 크게 줄일 수 있습니다. 엔터프라이즈는 유사하거나 동일한 의미론적 쿼리를 캐시하고 워크로드를 더 효과적으로 분산시켜 응답 시간을 최소화하고 시스템 성능을 개선할 수 있는 지능적이고 상황인식적인 시스템이 필요합니다.
 
-Adding to the complexity, enterprises often need the flexibility to switch between model providers—such as OpenAI, Anthropic, or custom domain-specific models—based on strategic motivations, cost, or specialized use cases. This requires infrastructure capable of dynamically rerouting workloads while maintaining performance, minimizing downtime, and ensuring seamless transitions across models, whether they’re general purpose or tailored for specific needs.
+복잡성을 더하는 것은 엔터프라이즈가 종종 전략적 동기, 비용 또는 특화된 사용 사례를 기반으로 OpenAI, Anthropic 또는 맞춤형 도메인 특화 모델과 같은 모델 제공자 간에 전환할 수 있는 유연성이 필요하다는 점입니다. 이는 성능을 유지하면서 워크로드를 동적으로 재라우팅하고, 다운타임을 최소화하며, 범용 모델이든 특정 요구사항에 맞게 설계된 모델이든 모델 간에 원활한 전환을 보장할 수 있는 인프라가 필요합니다.
 
-Another concern is model failover and reliability. AI models may experience performance degradation due to model-specific issues, such as high latency during peak usage or outdated training data that fails to deliver accurate responses. Ensuring robust failover mechanisms for these models is essential. For instance, enterprises need strategies to redirect traffic seamlessly to backup models or alternate providers when the primary model isn’t performing adequately. This type of failover is more complex than standard systems, as it must account for differences in model output quality and cost while maintaining a consistent user experience.
+또 다른 우려사항은 모델 페일오버와 안정성입니다. AI 모델은 피크 사용 시간 동안의 높은 지연시간이나 정확한 응답을 제공하지 못하는 오래된 훈련 데이터와 같은 모델 특화 문제로 인해 성능 저하를 경험할 수 있습니다. 이러한 모델에 대한 견고한 페일오버 메커니즘을 보장하는 것이 필수적입니다. 예를 들어, 엔터프라이즈는 주 모델이 적절하게 수행하지 못할 때 백업 모델이나 대체 제공자로 트래픽을 원활하게 리다이렉트하는 전략이 필요합니다. 이러한 유형의 페일오버는 모델 출력 품질과 비용의 차이를 고려하면서 일관된 사용자 경험을 유지해야 하기 때문에 표준 시스템보다 더 복잡합니다.
 
 Cost Control and Observability
-Controlling costs is a critical consideration for organizations integrating LLMs into their workflows. The dynamic nature of LLM usage often makes it difficult to track who is calling these services, under which budget, and how much is being spent. Without proper visibility, enterprises risk spiraling costs as usage grows unpredictably across teams and projects. Implementing mechanisms to monitor and attribute LLM usage to specific teams or applications can provide clarity. Furthermore, setting rate limits based on token consumption (tokens are an LLM-specific concept) or enterprise-established quotas ensures that resources are used efficiently and within budget. These limits are also essential to prevent excessive usage that could lead to denial-of-service (DoS) conditions or resource starvation for critical operations.
+비용 제어는 LLM을 워크플로우에 통합하는 조직에게 중요한 고려사항입니다. LLM 사용의 동적 특성은 누가 이러한 서비스를 호출하는지, 어떤 예산으로, 얼마만큼 지출하는지 추적하기 어렵게 만듭니다. 적절한 가시성이 없으면, 엔터프라이즈는 팀과 프로젝트 전반에 걸쳐 예측 불가능하게 사용이 증가함에 따라 비용이 급증할 위험에 빠집니다. LLM 사용을 특정 팀이나 애플리케이션에 할당하고 모니터링하는 메커니즘을 구현하면 명확성을 제공할 수 있습니다. 더욱이, 토큰 소비(토큰은 LLM 특화 개념입니다)를 기반으로 또는 엔터프라이즈에서 정한 할당량을 기반으로 요청 속도 제한을 설정하면 리소스가 효율적으로 그리고 예산 내에서 사용되도록 보장합니다. 이러한 제한은 또한 거부 서비스(DoS) 조건이나 중요한 운영을 위한 리소스 고갈로 이어질 수 있는 과도한 사용을 방지하는 데 필수적입니다.
 
-Observability is another crucial aspect of managing LLM interactions. Enterprises must monitor key networking metrics such as error rates and latency to identify performance bottlenecks or systemic issues in their LLM workflows. However, LLMs introduce additional, model-specific concerns that go beyond traditional observability practices. For example, tracking prompt evolution (are prompts excessively long? is the structure changing to deliver sub-optimal results?), token latency (TTFT, time per output token, etc.), context-window usage, and usage attribution are all concerns.
+관찰성은 LLM 상호작용을 관리하는 또 다른 중요한 측면입니다. 엔터프라이즈는 LLM 워크플로우에서 성능 병목 현상이나 시스템 문제를 식별하기 위해 오류율 및 지연시간과 같은 주요 네트워킹 메트릭을 모니터링해야 합니다. 그러나 LLM은 전통적인 관찰성 관행을 넘어서는 추가적이고 모델 특화된 우려사항들을 도입합니다. 예를 들어, 프롬프트 진화 추적(프롬프트가 과도하게 길지 않은가? 구조가 최적이 아닌 결과를 제공하도록 변경되고 있지 않은가?), 토큰 지연시간(TTFT, 출력 토큰당 시간 등), 문맥 윈도우 사용량, 그리고 사용량 할당은 모두 우려사항입니다.애플리케이션 개발자들은 자신의 애플리케이션의 일부를 구현하기 위해 자유롭게 LLM을 호출할 수 있지만, 프롬프트에서 전송되는 정보의 민감성을 얼마나 자주 고려할까요? 엔터프라이즈 환경에서 민감한 데이터를 전송하는 것은 단순한 간과가 아니라 주요 규정 준수 위험입니다. 엔터프라이즈는 엄격한 데이터 보호 및 비밀유지 요구사항 하에서 운영됩니다. 이러한 제약을 준수하지 않으면서 데이터를 이리저리 보낼 수는 없습니다. LLM으로 작업할 때도 마찬가지입니다. PII이든, HIPAA에 따른 건강 관련이든, GDPR과 같은 지역 보호 대상이든 민감한 데이터는 규제 요구사항을 충족시키기 위해 최고 수준의 주의로 처리되어야 합니다. 실제로, 규정 준수 감시 대상이 아닐 수도 있지만 극도로 민감한 가장 중요한 데이터는 회사의 독점 데이터와 영업 비밀입니다. 모든 팀이 PII와 같은 규제 데이터를 다루어야 하는 것은 아니지만, 대부분의 팀은 민감한 회사별 데이터를 다룹니다.
 
-Guardrails and Compliance
-Application developers may feel free to call an LLM to implement some part of their applications, but how often do they consider the sensitivity of what is being sent in those prompts? In an enterprise setting, sending sensitive data is not just a simple oversight; it’s a major compliance risk. Enterprises operate under strict data protection and confidentiality requirements. You can’t just send data flying around without adhering to those constraints. The same is true when working with LLMs. Sensitive data—whether it’s PII, health-related under HIPAA, or subject to regional protections like GDPR—must be handled with the utmost care to meet regulatory requirements. In fact, some of the most important data, which may not be covered under compliance oversight, but is extremely sensitive, is a company’s proprietary data and trade secrets. Not all teams will have to deal with regulated data like PII, but most teams will deal with sensitive company-specific data.
+여기서 가드레일이 등장합니다. LLM 쿼리를 위한 WAF로 생각하면 됩니다—무엇이 수용 가능한지에 대한 규칙을 적용하고, 입력을 검증하며, 출력을 제약합니다. 이러한 가드레일은 AI 운영을 확대함에 따라 중요합니다. 예를 들어, 편향되거나 해로운 응답을 유도하거나 민감한 정보 노출 위험이 있는 프롬프트를 차단할 수 있습니다. 이제 개발자들이 이러한 보호 기능을 앱 코드에 베이킹할 수 없을까라고 궁금해할 수도 있습니다. 물론 할 수 있지만 그러한 접근 방식은 위험합니다. 우리가 사이버 보안의 전체 부담을 개발자에게 맡기지 않듯이, 같은 원칙이 여기에도 적용됩니다. "심층 방어(Defense-in-depth)" 전략이 필수적입니다. 엔터프라이즈는 애플리케이션 수준의 보호 위에 견고하고 외부화된 제어를 계층화하여 사이버 보안에 성공하고, LLM에도 같은 접근 방식이 적용됩니다. 비용 제어, 관찰성, 지능형 가드레일을 결합하는 잘 설계된 거버넌스 계층은 단순한 추가 사항이 아니라—책임감 있게, 예측 가능하게, 그리고 자신감 있게 AI를 확대하기 위한 핵심입니다.
 
-This is where guardrails come into play. Think of them as the WAF for your LLM queries—enforcing rules about what’s acceptable, validating inputs, and constraining outputs. These guardrails are crucial as you scale your AI operations. For instance, they can block prompts designed to elicit biased or harmful responses, or that risk exposing sensitive information. Now, you might wonder: can’t developers just bake these protections into the app code? Sure, but that approach is risky. Just like we don’t leave the entire burden of cybersecurity to developers, the same principle applies here. A “defense-in-depth” strategy is essential. Enterprises succeed in cybersecurity by layering robust, externalized controls over application-level protections, and the same approach applies to LLMs. A well-designed governance layer that combines cost control, observability, and intelligent guardrails isn’t just a nice-to-have—it’s the key to scaling AI responsibly, predictably, and confidently.
+복원력, 가드레일, 보안과 같은 LLM 특화 과제들을 해결하려면 이러한 과제들을 고려할 수 있는 특화된 도구가 필요합니다. 기존 네트워킹은 AI 게이트웨이와 같은 특화된 도구로 보강되어 이러한 과제들을 해결할 수 있습니다. 다음 섹션에서는 AI 게이트웨이에 접근하는 방법을 살펴봅니다.
 
-Tackling these LLM-specific challenges like resilience, guardrails, and security will require tooling that is specialized and can take these challenges into account. Traditional networking can be augmented with specific tools like an AI gateway to solve these challenges. In the next section, we look at how to approach an AI gateway.
+AI 게이트웨이는 요청의 세부사항을 의미론적으로 이해하여 보안, 가드레일, 관찰성, 페일오버, 로드 밸런싱을 더 잘 구현할 수 있는 특화된 API 게이트웨이입니다. AI 게이트웨이를 기존 API 게이트웨이와 함께 사용하거나, 클라우드 중심, 플랫폼 기반, 자가 서비스 배포를 위해 구식 API 관리를 대체하는 최신 옵션으로 사용할 수 있습니다. AI 게이트웨이는 일반적으로 공개적으로 호스팅되는 LLM으로 나가는 요청에 사용됩니다. 그림 2-2에서 볼 수 있듯이, 호출은 클라이언트에서 AI 게이트웨이로 이동한 다음 LLM(이 경우 OpenAI)으로 나갑니다. 이 시나리오에서 AI 게이트웨이는 강력한 포워딩 프록시로 작용합니다.
 
-The Role of an AI Gateway in Secure and Scalable AI Adoption
-An AI gateway is a specialized API gateway that can semantically understand the details of a request to better implement security, guardrails, observability, failover, and load balancing. You can use an AI gateway in conjunction with your existing API gateway or as a modern option to replace last-generation API management for cloud-first, platform-based, self-service deployments. An AI gateway is typically used for requests going out to an LLM that’s a publicly hosted service. As you can see in Figure 2-2, calls go from a client to an AI gateway and then out to the LLM (OpenAI, in this case). In this scenario, the AI gateway acts as a powerful forwarding proxy.
-
-An AI gateway plays a pivotal role in helping enterprises adopt and scale AI/LLM usage securely and efficiently. Many organizations begin their AI journey by using public models like OpenAI for their flexibility and ease of integration. However, as adoption grows, they often transition to private or hybrid setups to address concerns regarding cost, data privacy, and compliance.
+AI 게이트웨이는 엔터프라이즈가 AI/LLM 사용을 안전하고 효율적으로 도입하고 확대하는 데 핵심적인 역할을 합니다. 많은 조직들은 OpenAI와 같은 공개 모델을 사용하여 AI 여정을 시작하는데, 이는 유연성과 통합의 용이성 때문입니다. 그러나 도입이 증가함에 따라, 비용, 데이터 프라이버시, 규정 준수에 관한 우려를 해결하기 위해 개인 또는 하이브리드 설정으로 전환하는 경우가 많습니다.
 
 
 Figure 2-2. Requests to the LLM follow a forwarding proxy model
-Security and privacy are foundational aspects of an AI gateway. Organizations must ensure that sensitive enterprise data is not inadvertently exposed to public LLMs. Customizable guardrails enable masking, blocking, or filtering of sensitive data in requests and responses, protecting data at every stage of the interaction. Additionally, centralized credential management secures API keys using secret stores and enforces fine-grained access with role-based access control (RBAC). Combined with robust authentication policies like JSON Web Tokens (JWTs) and external authentication mechanisms, the gateway ensures only authorized users can access AI APIs.
+보안과 프라이버시는 AI 게이트웨이의 기초적 측면입니다. 조직은 민감한 엔터프라이즈 데이터가 공개 LLM에 실수로 노출되지 않도록 해야 합니다. 맞춤형 가드레일을 통해 요청과 응답의 민감한 데이터를 마스킹, 차단 또는 필터링하여 상호작용의 모든 단계에서 데이터를 보호합니다. 또한, 중앙 집중식 자격증명 관리는 비밀 저장소를 사용하여 API 키를 보호하고 역할 기반 접근 제어(RBAC)로 세분화된 접근을 강제합니다. JSON Web Token(JWT) 및 외부 인증 메커니즘과 같은 견고한 인증 정책과 결합하면, 게이트웨이는 승인된 사용자만 AI API에 접근할 수 있도록 보장합니다.
 
-AI gateways enable operational visibility. Detailed metrics, such as request volume, token usage, and latency, provide insights for managing performance and cost. Robust logging and monitoring facilitate compliance reporting, troubleshooting, and auditing, ensuring AI adoption aligns with regulatory requirements. Integrating with existing observability tooling through open standards like OpenTelemetry helps augment existing initiatives to build smart dashboards for end users.
+AI 게이트웨이는 운영 가시성을 활성화합니다. 요청 볼륨, 토큰 사용량, 지연시간과 같은 상세 메트릭은 성능 및 비용 관리를 위한 통찰력을 제공합니다. 견고한 로깅 및 모니터링은 규정 준수 보고, 문제 해결, 감사를 용이하게 하며, AI 도입이 규제 요구사항과 부합하도록 보장합니다. OpenTelemetry와 같은 개방형 표준을 통해 기존 관찰성 도구와 통합하면 최종 사용자를 위한 스마트 대시보드 구축의 기존 계획을 보강하는 데 도움이 됩니다.
 
-Since AI gateways utilize semantic understanding of requests/prompts, they can make smarter decisions about load balancing, failover, or even caching of the results. Semantic awareness enables the gateway to attach additional context to the prompt following organization-approved methods. For example, an AI gateway can help implement retrieval-augmented generation (RAG), a mechanism to add additional facts or organization-specific data to a prompt to guide the LLM to more accurate responses.
+AI 게이트웨이는 요청/프롬프트의 의미론적 이해를 활용하기 때문에 로드 밸런싱, 페일오버 또는 결과 캐싱에 대해 더 스마트한 결정을 내릴 수 있습니다. 의미론적 인식은 게이트웨이가 조직에서 승인한 방법에 따라 프롬프트에 추가 문맥을 첨부할 수 있게 해줍니다. 예를 들어, AI 게이트웨이는 검색 증강 생성(RAG)을 구현하는 데 도움이 될 수 있으며, 이는 LLM을 더 정확한 응답으로 안내하기 위해 추가 사실이나 조직별 데이터를 프롬프트에 추가하는 메커니즘입니다.많은 조직들이 내부 개발자 플랫폼을 중심으로 개발자를 위한 고도로 자동화된 자가 서비스 워크플로우로 이동하고 있으며, AI 게이트웨이는 이 플랫폼과 호환되어야 합니다. 우리는 이 장의 마지막 섹션에서 이것에 대해 더 다룰 것이지만, 이 통합을 용이하게 하려면 AI 게이트웨이 설계를 고려할 때 다음을 고려해야 합니다:
 
-Designing and Deploying an AI Gateway: Best Practices
-Many organizations are moving to highly automated, self-service workflows for their developers based around an internal developer platform, and an AI gateway must fit in with this platform. We’ll cover more about this in the last section of this chapter, but to facilitate this integration, we must take the following into account when considering AI gateway design:
+우려사항의 분리
 
-Separation of concerns
+강력한 기초 프록시
 
-Powerful foundational proxy
+선언적 구성
 
-Declarative configuration
+오픈 소스
 
-Open source
+우려사항의 분리
 
-Separation of Concerns
-Designing an AI gateway starts with clear separation of concerns. That is, the gateway should act as an operational layer, distinct from your application’s business logic. By decoupling these concerns, you can focus on enhancing the application’s functionality without constantly modifying operational code. For example, masking sensitive data, validating inputs, or enforcing API quotas should be implemented as part of the gateway, not embedded within the application itself.
+AI 게이트웨이 설계는 명확한 우려사항 분리로 시작됩니다. 즉, 게이트웨이는 애플리케이션의 비즈니스 로직과 구별되는 운영 계층으로 작용해야 합니다. 이러한 우려사항들을 분리함으로써, 운영 코드를 지속적으로 수정하지 않으면서 애플리케이션의 기능을 향상시키는 데 집중할 수 있습니다. 예를 들어, 민감한 데이터 마스킹, 입력 검증, 또는 API 할당량 강제는 애플리케이션 내에 포함되지 않고 게이트웨이의 일부로 구현되어야 합니다.
 
 Leverage a Powerful and Flexible Proxy
-The choice of a proxy to serve as the foundation of your AI gateway is critical. The proxy should be performant, configurable, and mature. Envoy is known for its performance, scalability, and extensibility. Envoy’s powerful filter chain architecture enables flexibility, with standard plug-ins for features like rate limiting, external authentication (ext-auth), and general external processing (ext-proc). These capabilities enable the gateway to handle complex tasks, such as manipulating request and response bodies to mask sensitive data, without overburdening application code. With Envoy, you can rapidly develop and deploy advanced gateway features while ensuring the system remains performant and scalable.
+AI 게이트웨이의 기초로 사용할 프록시 선택은 매우 중요합니다. 프록시는 성능, 구성 가능성, 그리고 성숙도를 갖춰야 합니다. Envoy는 성능, 확장성, 확장성으로 알려져 있습니다. Envoy의 강력한 필터 체인 아키텍처는 속도 제한, 외부 인증(ext-auth), 일반적인 외부 처리(ext-proc)와 같은 기능의 표준 플러그인으로 유연성을 가능하게 합니다. 이러한 기능들은 게이트웨이가 요청과 응답 본문을 조작하여 민감한 데이터를 마스킹하는 것과 같은 복잡한 작업을 처리할 수 있게 해주며, 애플리케이션 코드에 과부하를 주지 않습니다. Envoy를 사용하면 시스템이 성능 있고 확장 가능한 상태를 유지하면서 고급 게이트웨이 기능을 빠르게 개발하고 배포할 수 있습니다.
 
 Declarative Configuration
-Declarative configuration is a best practice for managing an AI gateway, ensuring predictability and reducing the risk of human error. Using a declarative approach allows you to define the desired state of your gateway’s behavior, such as routing rules, security policies, and API quotas, in a structured format like YAML or JSON. This makes it easier to version control configurations, apply them consistently across environments, and automate updates. Additionally, declarative configurations integrate seamlessly with infrastructure as code (IaC) practices, promoting a unified and repeatable deployment process.
+선언적 구성은 AI 게이트웨이 관리의 모범 사례로, 예측 가능성을 보장하고 인간 오류의 위험을 줄입니다. 선언적 접근 방식을 사용하면 라우팅 규칙, 보안 정책, API 할당량과 같은 게이트웨이 동작의 원하는 상태를 YAML이나 JSON과 같은 구조화된 형식으로 정의할 수 있습니다. 이를 통해 구성을 버전 관리하고, 환경 전체에 일관되게 적용하며, 업데이트를 자동화하기가 더 쉬워집니다. 또한, 선언적 구성은 인프라 코드(IaC) 관행과 원활하게 통합되어 통일되고 반복 가능한 배포 프로세스를 촉진합니다.
 
 Roots in Open Source
-Building your AI gateway on open source foundations provides several advantages. Open source technologies like Envoy come with large, active communities that contribute to ongoing innovation, security updates, and feature development. This reduces vendor lock-in and enables enterprises to stay ahead of evolving technical requirements. Leveraging open source software aligns with modern development practices, offering cost-effectiveness and flexibility in adapting the gateway to meet specific enterprise needs.
+AI 게이트웨이를 오픈 소스 기반 위에 구축하면 몇 가지 이점을 얻을 수 있습니다. Envoy와 같은 오픈 소스 기술은 지속적인 혁신, 보안 업데이트, 기능 개발에 기여하는 크고 활발한 커뮤니티와 함께 제공됩니다. 이는 벤더 종속성을 줄이고 엔터프라이즈가 발전하는 기술 요구사항을 앞서나갈 수 있도록 해줍니다. 오픈 소스 소프트웨어를 활용하는 것은 현대의 개발 관행과 부합하며, 특정 엔터프라이즈 요구사항을 충족하도록 게이트웨이를 조정할 수 있는 비용 효율성과 유연성을 제공합니다.IT 조직은 종종 여러 팀을 같은 페이지에 놓기 위해 고민합니다. 팀들은 종종 사일로에서 결정을 내리다 보니 도구의 중복, 통합 도전, 거버넌스 붕괴로 이어지며, 이는 규정 준수 문제를 야기할 수 있습니다. 플랫폼 엔지니어링은 다양한 IT 팀을 통합하여 소프트웨어 전달과 운영 우수성을 간소화하는 데 중요한 역할을 합니다. 애플리케이션 개발자, 보안 전문가, 네트워킹 전문가 등 다양한 IT 팀 간의 협업을 촉진함으로써, 플랫폼 엔지니어링 계획은 마찰을 줄이고, 개발자 생산성을 향상시키며, 규정 준수 표준을 강제하는 것을 목표로 합니다.
 
-AI Success Requires Platform Engineering
-IT organizations often struggle to get their multiple teams on the same page. Teams often make decisions in silos, leading to duplication of tools, integration challenges, and breakdowns in governance, which can result in compliance issues. Platform engineering plays a pivotal role in uniting diverse IT teams to streamline software delivery and operational excellence. By fostering collaboration among application developers, security specialists, networking experts, and others, platform engineering initiatives aim to reduce friction, enhance developer productivity, and enforce compliance standards.
+GitOps 및 IaC와 같은 자동화 우선 원칙으로 설계된 AI 게이트웨이는 최소한의 방해로 이러한 환경에 통합될 수 있습니다. 이들은 엔터프라이즈가 팀이 이미 사용하는 워크플로우에 AI 기반 통찰력과 오케스트레이션을 포함시킴으로써 플랫폼 노력을 가속화하도록 합니다. 예를 들어, 데이터 과학자와 개발자는 더 효과적으로 협업할 수 있으며, AI 게이트웨이를 사용하여 견고한 보안 및 거버넌스를 유지하면서 모델, API, 인프라에 대한 자가 서비스 접근을 활성화할 수 있습니다. 이러한 접근 방식은 AI 도입을 규모에 맞게 가속화할 뿐만 아니라 팀에 자가 서비스 도구를 제공하고 조직 전체의 정렬을 보장하는 플랫폼 엔지니어링 미션을 강화합니다.
 
-AI gateways designed with automation-first principles, such as GitOps and IaC, can plug into these environments with minimal disruption. They enable enterprises to supercharge their platform efforts, embedding AI-powered insights and orchestration into the workflows that teams already use. For example, data scientists and developers can collaborate more effectively, using the AI gateway to enable self-service access to models, APIs, and infrastructure while maintaining robust security and governance. This approach not only accelerates AI adoption at scale but also reinforces the platform engineering mission of empowering teams with self-service tools and ensuring alignment across the organization.
-
-As organizations introduce AI and LLM usage, an AI gateway becomes crucial. It acts as a bridge, weaving advanced semantic understanding into workflows to mitigate the risks of escalating costs, data privacy concerns, and compliance complexities—key issues in enterprise environments. An AI gateway designed with the previously discussed best practices (separation of concerns, powerful proxy, declarative configuration, and open source) is designed to integrate nicely into internal developer portals. In the next chapter, we look at an AI gateway implementation that was built with these best practices.
+조직들이 AI 및 LLM 사용을 도입함에 따라, AI 게이트웨이는 중요해집니다. 이는 다리 역할을 하여 고급 의미론적 이해를 워크플로우에 짜넣어 비용 급증, 데이터 프라이버시 우려, 규정 준수 복잡성의 위험을 완화합니다—이는 엔터프라이즈 환경의 핵심 문제입니다. 앞서 논의한 모범 사례(우려사항 분리, 강력한 프록시, 선언적 구성, 오픈 소스)로 설계된 AI 게이트웨이는 내부 개발자 포털에 잘 통합되도록 설계되었습니다. 다음 장에서는 이러한 모범 사례로 구축된 AI 게이트웨이 구현을 살펴봅니다.
 
 # Chapter 3. Common AI Gateway Use Cases
-In the previous chapter, we introduced the concept of an AI gateway and explained why traditional networking falls short. This chapter will explore how enterprises can use an AI gateway to solve real-world challenges.
+이전 장에서는 AI 게이트웨이의 개념을 소개하고 기존 네트워킹이 왜 부족한지를 설명했습니다. 이 장에서는 엔터프라이즈가 AI 게이트웨이를 사용하여 실제 문제를 어떻게 해결할 수 있는지 살펴보겠습니다.
 
-As we explore these use cases, we’ll reference an AI gateway implementation as an example. Users should choose an AI gateway built on modern architectures including Envoy Proxy and Kubernetes Gateway API. Gateways like Gloo AI Gateway (being donated to Cloud Native Computing Foundation—CNCF—as KGateway) enable AI features that accelerate AI application development while addressing critical security, observability, control, and governance needs.
+사용 사례를 살펴보면서 예시로 AI 게이트웨이 구현을 참고하겠습니다. 사용자는 Envoy Proxy와 Kubernetes Gateway API를 포함한 최신 아키텍처 위에 구축된 AI 게이트웨이를 선택해야 합니다. Gloo AI Gateway(Cloud Native Computing Foundation—CNCF에 KGateway로 기여 중과 같은)와 같은 게이트웨이는 보안, 관찰성, 제어 및 거버넌스 요구를 해결하면서 AI 애플리케이션 개발을 가속화하는 AI 기능을 제공합니다.
 
-Choosing a reliable AI gateway helps address the top concerns that enterprises have when adopting AI, including:
+신뢰할 수 있는 AI 게이트웨이를 선택하면 엔터프라이즈가 AI 도입 시 직면하는 주요 우려사항을 해결하는 데 도움이 됩니다:
 
-Security threat mitigation
+- 보안 위협 완화
+- 기술 역량 격차 해소
+- 기존 인프라와의 원활한 통합
 
-The bridging of the technical skills gap
-
-Seamless integration with existing infrastructure
-
-With this context in mind, let’s explore the key use cases that make AI gateways essential for enterprise AI adoption.
+이런 배경을 바탕으로 AI 게이트웨이가 엔터프라이즈 AI 도입에 필수적인 주요 사용 사례들을 살펴보겠습니다.
 
 Security and Access Control
-Security and access control are paramount for every technology, and AI use cases aren’t any different. An AI gateway can encompass everything from managing API credentials to multi-tenant isolation.
+보안과 접근 제어는 모든 기술에서 가장 중요한 요소이며, AI 사용 사례도 예외는 아닙니다. AI 게이트웨이는 API 자격증명 관리에서 다중 테넌시 격리에 이르기까지 다양한 기능을 포괄할 수 있습니다.
 
-In this section, we’ll explore how an AI gateway provides a security layer that handles authentication, authorization, and access policies to ensure that AI resources and LLM providers are accessed only by authorized users and applications.
+이 섹션에서는 AI 게이트웨이가 인증, 권한 부여, 접근 정책을 처리하는 보안 계층을 어떻게 제공하여 AI 자원과 LLM 제공자에 대한 접근이 승인된 사용자와 애플리케이션으로만 제한되도록 하는지 살펴보겠습니다.
 
 API Key and Credential Management
-Because every LLM provider requires an API key, managing them presents a significant security challenge in enterprise environments. The traditional approach of embedding API keys directly in application code or configuration files leads to credential sprawl, increasing the risk of accidental exposure through code repositories or configuration leaks. As organizations scale their AI adoption and integrate multiple LLM providers, this problem is compounded.
+모든 LLM 제공자는 API 키를 필요로 하기 때문에, 이를 관리하는 것은 엔터프라이즈 환경에서 중요한 보안 과제를 제시합니다. 애플리케이션 코드나 구성 파일에 API 키를 직접 포함하는 전통적 접근 방식은 자격증명 확산(credential sprawl)을 초래하여 코드 저장소나 구성 누수로 인한 우발적 노출 위험을 증가시킵니다. 조직이 AI 도입을 확장하고 여러 LLM 제공자를 통합할수록 이 문제는 더욱 심화됩니다.
 
-Figure 3-1 shows how an AI gateway addresses these challenges by centralizing credential management at the infrastructure level, away from the application code. This allows operators to securely store and manage API keys for multiple providers while integrating with enterprise secret management systems, as shown in Figure 3-2.
-
+그림 3-1은 AI 게이트웨이가 애플리케이션 코드에서 분리된 인프라 수준에서 자격증명 관리를 중앙화하여 이러한 과제를 어떻게 해결하는지를 보여줍니다. 이를 통해 운영자는 여러 제공자에 대한 API 키를 안전하게 저장하고 관리할 수 있으며, 그림 3-2에 표시된 대로 엔터프라이즈 비밀 관리 시스템과 통합할 수 있습니다.
 
 Figure 3-1. Comparison of direct versus gateway-mediated access to LLMs
 
 Figure 3-2. Integration of enterprise secrets management system with an AI gateway architecture
-By removing credential management responsibilities from application teams, organizations can implement consistent security practices, automate key rotation, and maintain a comprehensive audit trail of credential usage across all AI workloads.
+애플리케이션 팀으로부터 자격증명 관리 책임을 제거함으로써 조직은 일관된 보안 관행을 구현하고, 키 회전 자동화, 그리고 모든 AI 워크로드에 걸친 자격증명 사용에 대한 포괄적인 감사 추적을 유지할 수 있습니다.
 
 Fine-Grained Access Control and Auditing
-While centralizing LLM credential management solves one part of the security equation, organizations also need to control access to LLMs. Users should select an AI gateway that can integrate with existing enterprise authentication and authorization mechanisms. Whether an organization uses JWTs, custom tokens, OpenID Connect (OIDC), Lightweight Directory Access Protocol (LDAP), or other authentication methods, AI gateways can leverage these existing systems rather than introducing new credentials to manage.
+LLM 자격증명 관리를 중앙화하는 것이 보안 문제의 일부를 해결해 주지만, 조직은 LLM에 대한 접근 제어도 필요합니다. 사용자는 기존 엔터프라이즈 인증 및 권한 부여 메커니즘과 통합할 수 있는 AI 게이트웨이를 선택해야 합니다. 조직이 JWT, 커스텀 토큰, OpenID Connect(OIDC), Lightweight Directory Access Protocol(LDAP) 또는 기타 인증 방법을 사용하든, AI 게이트웨이는 새로운 자격증명을 도입하기보다는 이러한 기존 시스템을 활용할 수 있습니다.
 
-Let’s look at an example using JWTs, though similar principles apply to other authentication methods. JWTs serve as one approach for implementing fine-grained access control in AI gateways.
+여기서는 JWT를 사용하는 예를 살펴보겠습니다. 다른 인증 방법에도 유사한 원칙이 적용됩니다. JWT는 AI 게이트웨이에서 세분화된 접근 제어를 구현하는 한 가지 방법으로 사용됩니다.
 
-Unlike API keys, JWTs carry rich claims (key-value pairs) about the user’s identity, roles, permissions, and any other values. This enables fine-grained and flexible access control decisions.
+API 키와 달리 JWT는 사용자의 신원, 역할, 권한 및 기타 값을 나타내는 풍부한 클레임(키-값 쌍)을 포함합니다. 이는 세분화되고 유연한 접근 제어 결정을 가능하게 합니다.
 
-Here’s an example of a JWT with custom claims:
+다음은 커스텀 클레임을 포함한 JWT의 예입니다:
 
 {
   "iss": "sso.solo.io",
@@ -319,10 +305,10 @@ Here’s an example of a JWT with custom claims:
     "anthropic": ["claude-3-opus"]
   }
 }
-Based on the claims in the JWT, the AI gateway can enforce access control at multiple levels. Let’s look at a couple of examples.
+JWT의 클레임을 기반으로 AI 게이트웨이는 여러 수준에서 접근 제어를 시행할 수 있습니다. 몇 가지 예를 살펴보겠습니다.
 
-Team and LLM access control
-This example restricts which models can be accessed or enforces team isolation (that is, restricts access by team) based on the values in the JWT claims using RBAC, as shown in Figure 3-3. The example only allows access to the openai-route if JWT contains the team: ai-research value:
+팀 및 LLM 접근 제어
+이 예시는 JWT 클레임의 값에 따라 어떤 모델에 접근할 수 있는지를 제한하거나 팀 격리를 시행하는 방법을 보여줍니다(RBAC 사용). 그림 3-3에 표시된 바와 같이, 예제 구성은 JWT에 team: ai-research 값이 포함된 경우에만 openai-route에 대한 접근을 허용합니다:
 
 apiVersion: gateway.solo.io/v1
 kind: RouteOption
@@ -344,10 +330,10 @@ spec:
                 team: ai-research
 
 Figure 3-3. Using RBAC to allow access to the AI research team and restricting access for the QA team through an AI gateway
-Similarly, we could come up with a configuration that restricts which models a user can access based on the JWT claims.
+유사하게, JWT 클레임을 기반으로 사용자가 접근할 수 있는 모델을 제한하는 구성도 만들 수 있습니다.
 
 Usage control
-The gateway operators can use a declarative configuration to enforce token rate limits based on claims in the JWT as shown in Figure 3-4. The example below configures a rate limit of 500 tokens per hour for each JWT subject (sub) claim. This rate limit configuration is also separately applied to a specific route on which the AI gateway enforces it:
+게이트웨이 운영자는 선언적 구성을 사용하여 그림 3-4에 표시된 것처럼 JWT의 클레임에 기반한 토큰 속도 제한을 적용할 수 있습니다. 아래 예시는 각 JWT의 sub(subject) 클레임에 대해 시간당 500 토큰의 속도 제한을 구성합니다. 이 속도 제한 구성은 AI 게이트웨이가 이를 강제하는 특정 라우트에도 별도로 적용됩니다:
 
 ...
     descriptors:
@@ -369,113 +355,104 @@ The gateway operators can use a declarative configuration to enforce token rate 
 
 Figure 3-4. Token rate limiting with per-subject quota from JWT
 Securing Multi-Tenancy in AI Workflows
-Large enterprises typically have multiple business units, development teams, or external partners that need access to AI capabilities. Consider a financial services company where different departments—wealth management, retail banking, insurance—all need to use LLMs for various purposes. Each department has specific security requirements, data handling needs, and budget constraints.
+대규모 기업은 일반적으로 AI 기능에 접근해야 하는 여러 비즈니스 유닛, 개발팀 또는 외부 파트너를 보유하고 있습니다. 예를 들어 금융 서비스 회사에서는 자산관리, 소매은행, 보험 등 서로 다른 부서가 각기 다른 목적을 위해 LLM을 사용해야 할 수 있습니다. 각 부서는 고유한 보안 요구사항, 데이터 처리 요구, 예산 제약을 가지고 있습니다.
 
-By combining an AI gateway and a solution such as a service mesh, enterprise teams can enable secure multi-tenancy. This allows organizations to isolate each tenant while maintaining control and governance.
+AI 게이트웨이와 서비스 메쉬와 같은 솔루션을 결합하면 엔터프라이즈 팀은 안전한 멀티테넌시를 구현할 수 있습니다. 이를 통해 조직은 각 테넌트를 격리하면서도 제어와 거버넌스를 유지할 수 있습니다.
 
-For example, the wealth management division might need to use OpenAI’s GPT-4o model for analyzing investment reports, while the retail banking team uses a different model or provider for customer service automation.
+예를 들어, 자산관리 부서는 투자 보고서를 분석하기 위해 OpenAI의 GPT-4o 모델을 사용해야 할 수 있고, 소매은행 팀은 고객 서비스 자동화를 위해 다른 모델이나 제공자를 사용할 수 있습니다.
 
-With this approach, you can ensure the following for each tenant:
+이 접근 방식으로 각 테넌트에 대해 다음을 보장할 수 있습니다:
 
-Separate API credentials and rate limits
-
-Division-specific prompt templates and configurations
-
-Isolated data handling policies
-
-Individual cost centers and usage quotas
-
-Custom security policies and compliance rules
+- 별도의 API 자격증명 및 속도 제한
+- 부서별 프롬프트 템플릿 및 구성
+- 분리된 데이터 처리 정책
+- 개별 비용 센터 및 사용 할당량
+- 맞춤형 보안 정책 및 준수 규칙
 
 Data Privacy and Compliance Enforcement (Guardrails)
-Modern enterprises navigate large sets of private and sensitive data on a day-to-day basis, requiring strict data compliance and confidentiality provisions. Additionally, all sensitive data in enterprises must follow regulatory and compliance requirements, including HIPAA, GDPR, and other applicable regional requirements such as the California Consumer Privacy Act (CCPA).
+현대의 엔터프라이즈는 일상적으로 방대한 양의 사적이고 민감한 데이터를 다루며, 엄격한 데이터 준수 및 기밀성 조항을 필요로 합니다. 또한 모든 민감한 데이터는 HIPAA, GDPR 및 캘리포니아 소비자 개인정보 보호법(CCPA)과 같은 적용 가능한 지역 규정을 포함한 규제 및 준수 요구사항을 따라야 합니다.
 
-An AI gateway serves as an intermediary that inspects, filters, and governs all data flowing between all applications and AI models and backends. In this section, we’ll explore how enterprises can implement data protection strategies, including content filtering and PII detection.
+AI 게이트웨이는 모든 애플리케이션과 AI 모델 및 백엔드 사이를 흐르는 데이터를 검사하고 필터링하며 거버넌스하는 중개자 역할을 합니다. 이 섹션에서는 콘텐츠 필터링과 PII(개인식별정보) 탐지를 포함한 데이터 보호 전략을 엔터프라이즈가 어떻게 구현할 수 있는지 살펴봅니다.
 
-To protect data, enterprises must implement guardrails and data loss prevention (DLP) strategies. The guardrails in the AI gateway provide bidirectional protection for both incoming requests (prompts or queries from the end users or applications) and outgoing responses from the LLMs.
+데이터를 보호하기 위해 엔터프라이즈는 가드레일 및 데이터 유출 방지(DLP) 전략을 구현해야 합니다. AI 게이트웨이의 가드레일은 들어오는 요청(엔드유저나 애플리케이션의 프롬프트 또는 쿼리)과 LLM으로부터 나오는 응답 모두에 대해 양방향 보호를 제공합니다.보호 방식은 단순히 응답을 거부하고 미리 정의된 메시지(예: "부적절한 콘텐츠로 인해 거부됨")를 반환하거나, 응답을 마스킹하는 것일 수 있습니다. 마스킹은 민감한 내용을 특정 단어나 문자로 대체하는 것을 포함합니다. 예를 들어 위치를 마스킹하려면 "Italy is a great place to visit"라는 문장은 "[LOCATION] is a great place to visit."처럼 보일 수 있습니다. 또 다른 옵션은 감지된 문자열을 완전히 가려서 어떤 내용이었는지 단서를 주지 않는 방식으로 "XXXXX is a great place to visit."처럼 처리하는 것입니다.
 
-The protection can be done by simply rejecting responses and returning a predefined message (such as, “Rejected due to inappropriate content”) or by masking them. Masking involves replacing the sensitive content with a specific word or character. For example, if we want to mask locations, the string “Italy is a great place to visit” might look like this: “[LOCATION] is a great place to visit.” Another option is to completely mask the detected string without giving a clue as to what it might be: “XXXXX is a great place to visit.”
+게이트웨이에서 들어오는 요청에 대해 가드레일은 요청이 LLM으로 전송되기 전에 동작합니다. 이를 통해 요청이 LLM에 도달하기 전에 감지 및 자동 차단이 가능하여 데이터 프라이버시 규정을 준수할 수 있습니다. 이 접근법은 민감한 데이터가 외부 AI 서비스로 실수로 공유되는 것을 방지합니다.
 
-For incoming requests on the gateway, the guardrails kick in before the request is sent to the LLM. This allows detection and automatic blocking of requests before they reach the LLM, ensuring compliance with data privacy regulations. This approach prevents any sensitive data from being inadvertently shared with external AI services.
+응답 측면에서는 LLM 출력이 민감한 정보를 포함하는 엔터프라이즈 데이터를 참고하여 보강될 수 있습니다. 정확한 문맥 제공에는 유용하지만, 민감한 데이터를 호출자에게 그대로 반환하는 것은 바람직하지 않을 수 있습니다. 응답에 대한 가드레일은 PII를 감지하여 마스킹 규칙을 적용하거나 필요한 경우 응답을 완전히 거부하고 "Rejected"와 같은 미리 정의된 메시지로 대체할 수 있습니다. 이렇게 하면 LLM이 내부 데이터 소스를 통합하더라도 보호 대상 정보가 안전하게 유지됩니다. 
 
-On the response side, the LLM outputs may be enriched with enterprise data that contains sensitive information. While useful as a context and to provide the most accurate information, it’s not necessarily desirable to return the sensitive data to the caller. The guardrails on the response can detect PII and apply masking rules or, when necessary, reject the response entirely and replace it with a predefined message such as “Rejected.” This ensures that protected information remains secure even when LLMs incorporate internal data sources. Figure 3-5 shows the flow of unsanitized and sanitized inputs and outputs with input and output guardrails.
+그림 F3-5는 입력 및 출력 가드레일이 적용된 비정제(unsanitized) 및 정제(sanitized)된 입출력의 흐름을 보여줍니다.
 
+가드레일 시스템(예: Microsoft Presidio)은 일반적으로 다음 방법 중 하나 이상을 사용하여 양방향 콘텐츠를 평가하고 필터링합니다:
 
-Figure 3-5. Content sanitization workflow with input and output guardrails within an AI gateway
-A guardrails system—for example, Microsoft Presidio—typically employs one or more of the following methods to evaluate and filter content in both directions:
+- 내장 패턴
+신용카드 번호, 주민등록번호, 이메일, 전화번호 등을 탐지하는 데 사용될 수 있습니다.
 
-Built-in patterns
-Can be used to detect credit card numbers, social security numbers, emails, and phone numbers.
+- 정규식(Regular expressions)
+일치하는 문자열을 차단하거나 마스킹하는 데 사용할 수 있습니다.
 
-Regular expressions
-Can be used to reject or mask the matched strings.
+- 외부 중재(External moderation)
+요청/응답을 마스킹하거나 거부해야 하는지 결정하는 데 사용할 수 있습니다. 이는 OpenAI의 omni-moderation 같은 외부 모델이나 사용자 정의 웹훅일 수 있습니다.
 
-External moderation
-Can be used to determine whether the request/response should be masked or rejected. This may be an external model such as omni-moderation from OpenAI or a custom webhook.
+직접적인 콘텐츠 필터링을 넘어서, 조직은 프롬프트 템플릿을 통해 프라이버시 및 규정 준수를 더욱 강화할 수 있습니다. 이러한 템플릿은 시스템 프롬프트나 추가 컨텍스트를 자동으로 사용자 쿼리에 첨부하도록 허용하여 모든 LLM 상호작용에 대한 일관된 기본 규칙을 설정합니다.
 
-Beyond direct content filtering, organizations can further enhance privacy and compliance through prompt templates. These templates allow system prompts or additional context to be automatically attached to user queries, establishing consistent ground rules for all LLM interactions.
-
-For example, in Figure 3-6 we automatically attach a system prompt instructing the LLM to perform sentiment analysis on the user’s query and respond with a single word in French. With the ability to do this through the AI gateway, organizations can define and enforce standardized system prompts and automatically apply them to all client requests, ensuring adherence to privacy policies and compliance requirements without requiring individual applications to specify these rules in each query. This templating approach creates a unified governance layer that standardizes how applications interact with LLMs while maintaining security protocols.
-
+예를 들어 그림 3-6에서는 사용자 쿼리에 감정 분석을 수행하고 그 결과를 프랑스어 단어 한 개로 응답하라는 시스템 프롬프트를 자동으로 첨부합니다. AI 게이트웨이를 통해 이 기능을 제공하면 조직은 표준화된 시스템 프롬프트를 정의하고 모든 클라이언트 요청에 자동으로 적용할 수 있어, 개별 애플리케이션이 각 쿼리마다 이러한 규칙을 명시하지 않아도 프라이버시 정책 및 규정 준수 요구사항을 준수할 수 있습니다. 이러한 템플릿 방식은 애플리케이션이 LLM과 상호작용하는 방식을 표준화하는 통합 거버넌스 계층을 만듭니다.
 
 Figure 3-6. Composing user input and predefined system template allowing standardized LLM interaction
+
 Performance and Reliability
-AI workloads present unique challenges in terms of performance and reliability management. From handling varying response times to managing high-concurrency scenarios, AI gateways must ensure consistent and reliable service delivery.
+AI 워크로드는 가변적인 응답 시간 처리부터 높은 동시성 시나리오 관리를 포함하여 성능 및 신뢰성 관리 측면에서 고유한 과제를 제시합니다. AI 게이트웨이는 일관
 
 Performance Metrics and User Experience
-When managing AI workloads through an AI gateway, understanding and optimizing key performance metrics is crucial for service reliability. The primary metrics that impact user experience are latency-based, particularly in streaming scenarios where responses are generated token by token. By default, the responses from the LLM providers are returned once the complete response is generated.
+AI 게이트웨이를 통해 AI 워크로드를 관리할 때 핵심 성능 메트릭을 이해하고 최적화하는 것은 서비스 신뢰성에 매우 중요합니다. 사용자 경험에 영향을 주는 주요 메트릭은 지연시간 기반이며, 특히 응답이 토큰 단위로 생성되는 스트리밍 시나리오에서 중요합니다. 기본적으로 LLM 제공자는 전체 응답이 생성된 후에 응답을 반환합니다.
 
-Two critical metrics for monitoring gateway performance are TTFT (which we discussed in Chapter 1) and time per output token (TPOT).
+게이트웨이 성능을 모니터링하는 데 중요한 두 가지 메트릭은 TTFT(챕터 1에서 언급됨)와 출력 토큰당 시간(TPOT)입니다.
 
-TTFT measures the initial response time from query submission to the first generated token. This metric is important for real-time applications like chatbots, where users expect immediate responses. The AI gateway’s traffic management decisions can significantly impact TTFT by optimizing routing and load distribution.
+- TTFT는 쿼리 제출부터 첫 번째 생성 토큰까지의 초기 응답 시간을 측정합니다. 이 메트릭은 실시간 애플리케이션(예: 챗봇)에서 중요하며, 사용자는 즉각적인 응답을 기대합니다. AI 게이트웨이의 트래픽 관리 결정은 라우팅 및 부하 분산을 최적화하여 TTFT에 큰 영향을 미칠 수 있습니다.
 
-TPOT measures the generation speed of subsequent tokens. For streaming responses, TPOT should align with human reading speed (approximately 5-6 tokens per second, depending on the complexity of the text and reading speed) to ensure a smooth user experience. The AI gateway can optimize TPOT through intelligent load balancing and resource allocation.
+- TPOT은 이후 토큰들이 생성되는 속도를 측정합니다. 스트리밍 응답의 경우, TPOT은 인간의 읽기 속도(텍스트 복잡성과 읽기 속도에 따라 대략 초당 5–6 토큰)와 일치해야 부드러운 사용자 경험을 보장합니다. AI 게이트웨이는 지능형 로드밸런싱과 자원 할당을 통해 TPOT을 최적화할 수 있습니다.
 
-To calculate the total latency, take the TTFT and add it to the product of the TPOT and the number of output tokens, as shown in Figure 3-7.
+총 지연시간을 계산하려면 TTFT에 TPOT과 출력 토큰 수의 곱을 더하면 됩니다(그림 3-7 참조).
 
-When estimating expected latency, be mindful that response times can be delayed if the AI agent you’re interacting with is under a heavy workload and performing multiple LLM requests as part of the same interaction. For that reason, it makes sense for your performance tests to generate a workload heavy enough to reflect expected production conditions.
-
+예상 지연시간을 추정할 때, 상호작용 중 AI 에이전트가 많은 작업을 수행하고 여러 LLM 호출을 처리하고 있다면 응답 시간이 지연될 수 있음을 염두에 두어야 합니다. 이러한 이유로 성능 테스트에서는 예상 프로덕션 조건을 반영할 만큼 충분히 무거운 워크로드를 생성하는 것이 합리적입니다.
 
 Figure 3-7. Latency components in LLM response generation
+
 Traffic Management and Scaling for AI Workloads
-Robust traffic management is crucial for maintaining reliable and cost-effective services. An AI gateway needs to efficiently route requests, balance loads across endpoints, and enforce policies while ensuring optimal performance and resource utilization.
 
-For example, Gloo AI Gateway—also known as KGateway—leverages Envoy proxy’s traffic management capabilities to handle the AI workloads running across multiple teams and accessing different providers.
+강력한 트래픽 관리는 신뢰할 수 있고 비용 효율적인 서비스를 유지하는 데 매우 중요합니다. AI 게이트웨이는 요청을 효율적으로 라우팅하고, 엔드포인트 간 로드를 균형 있게 분산하며, 정책을 적용하면서 최적의 성능과 리소스 활용을 보장해야 합니다.
 
-In this scenario, Gloo AI Gateway implements both distributed and global load-balancing strategies to optimize traffic flow. It uses active health checking and intelligent load-balancing algorithms to route requests across model endpoints based on their current performance, availability, and API quota. At the global level, the gateway will enforce organization-wide traffic policies, such as preferring certain model providers or endpoints based on cost, performance, or geographical location.
+예를 들어 Gloo AI Gateway(또는 KGateway로 알려짐)는 Envoy 프록시의 트래픽 관리 기능을 활용하여 여러 팀이 실행하고 서로 다른 제공자에 접근하는 AI 워크로드를 처리합니다.
 
-The routing and traffic management are based on various request attributes. For example, organizations can configure routing rules that direct requests to different model endpoints based on:
+이 시나리오에서 Gloo AI Gateway는 트래픽 흐름을 최적화하기 위해 분산 및 글로벌 로드밸런싱 전략을 모두 구현합니다. 활성 상태 검사(active health checking)와 지능형 로드밸런싱 알고리즘을 사용하여 현재 성능, 가용성, API 할당량을 기반으로 모델 엔드포인트로 요청을 라우팅합니다. 글로벌 수준에서는 비용, 성능, 지리적 위치 등을 기반으로 특정 모델 제공자나 엔드포인트를 선호하도록 조직 전체의 트래픽 정책을 시행할 수 있습니다.
 
-Request headers that indicate the complexity or priority of the query
+라우팅 및 트래픽 관리는 다양한 요청 속성에 기반합니다. 예를 들어 조직은 다음과 같은 기준에 따라 요청을 서로 다른 모델 엔드포인트로 유도하는 라우팅 규칙을 구성할 수 있습니다:
 
-Path parameters that specify model capabilities or versions
+- 쿼리의 복잡성 또는 우선순위를 나타내는 요청 헤더
+- 모델 기능이나 버전을 지정하는 경로 매개변수
+- 라우팅 선호도를 결정하는 팀 또는 애플리케이션 식별자
+- 비용과 성능을 최적화하는 리소스 활용 패턴
+- 제공자 토큰 사용 한도(예: 토큰 한도 초과 시 다른 모델로 라우팅)
 
-Team or application identifiers that determine routing preferences
+상태 검사 및 이상치 감지 메커니즘은 엔드포인트 상태를 지속적으로 모니터링하여 열화된 인스턴스를 로드밸런싱 풀에서 자동으로 제거합니다. 장애 발생 시 AI 게이트웨이는 자동으로 페일오버하여 백업 시스템으로 전환할 수 있습니다.
 
-Resource utilization patterns that optimize for cost and performance
-
-Provider token usage limits (i.e., route to different models when token limits are reached)
-
-Health checking and outlier detection mechanisms continuously monitor endpoint health, automatically removing degraded instances from the load-balancing pool. In case of failures, the AI gateway can automatically failover and switch to a backup system.
-
-In this example, Gloo AI Gateway can also handle failover for the models of the LLM providers that you want to prioritize. If the main model from one provider is unavailable, becomes slow, or has any issues, the AI gateway can quickly switch to a backup model from the same or different provider. This keeps your services running without interruption.
+이 예에서 Gloo AI Gateway는 우선순위를 두고 싶은 LLM 제공자의 모델들에 대한 페일오버도 처리할 수 있습니다. 한 제공자의 주 모델이 사용 불가하거나 느려지거나 문제가 발생하면, AI 게이트웨이는 동일 제공자 또는 다른 제공자의 백업 모델로 빠르게 전환합니다. 이를 통해 서비스가 중단 없이 계속 운영될 수 있습니다.
 
 Integration of Hybrid AI Solutions
-While public, cloud-based LLMs are probably the easiest way to start working on a proof of concept, organizations often need to leverage multiple models, both public and private, deployed across different infrastructures. This hybrid approach enables enterprises to balance the advanced capabilities of various public models with the security and control offered by different private model deployments. An AI gateway is in the perfect position to serve as an orchestration layer for managing this architecture and providing unified routing, security, and governance across all types of models.
+퍼블릭 클라우드 기반의 LLM은 개념 증명 작업을 시작하기 가장 쉬운 방법일 수 있지만, 조직들은 종종 서로 다른 인프라에 배포된 퍼블릭 및 프라이빗 모델을 모두 활용해야 합니다. 이러한 하이브리드 접근 방식은 다양한 퍼블릭 모델의 고급 기능과 자체 인프라에서 실행되는 프라이빗 모델이 제공하는 보안 및 통제를 균형 있게 활용할 수 있게 해줍니다. AI 게이트웨이는 이 아키텍처를 관리하는 오케스트레이션 계층으로서 이상적인 위치에 있어 모든 종류의 모델에 대해 통합된 라우팅, 보안 및 거버넌스를 제공합니다.
 
-For example, an enterprise might use a public model like GPT-4o for general-purpose tasks, while routing sensitive queries involving private data to custom or fine-tuned models running on its own infrastructure. The AI gateway can make these routing decisions based on factors including the content type, security requirements, or specific headers in the request. This intelligent routing ensures that each query is directed to the most appropriate model while maintaining consistent security policies and monitoring across the entire infrastructure and AI resources.
+예를 들어, 엔터프라이즈는 일반 용도의 작업에 GPT-4o 같은 퍼블릭 모델을 사용하면서, 민감한 데이터가 포함된 쿼리는 자체 인프라에서 실행되는 맞춤형 또는 파인튜닝된 모델로 라우팅할 수 있습니다. AI 게이트웨이는 콘텐츠 유형, 보안 요구사항, 요청의 특정 헤더 등 다양한 요소를 기준으로 이러한 라우팅 결정을 내릴 수 있습니다. 이러한 지능형 라우팅은 각 쿼리가 가장 적합한 모델로 전달되도록 하면서 전체 인프라와 AI 자원 전반에 일관된 보안 정책과 모니터링을 유지합니다.
 
 Optimization and Monitoring
-As AI usage grows within an organization, understanding usage patterns, controlling costs, and maintaining visibility into system performance becomes increasingly important.
+조직 내에서 AI 사용이 증가함에 따라 사용 패턴을 이해하고, 비용을 제어하며, 시스템 성능에 대한 가시성을 유지하는 것이 점점 더 중요해집니다.
 
-In this section, we’ll explore how AI gateways can help enterprises optimize their AI investments through features like semantic caching and intelligent routing, while providing the observability needed to maintain and improve system performance.
+이 섹션에서는 AI 게이트웨이가 의미론적 캐싱(semantic caching) 및 지능형 라우팅과 같은 기능을 통해 엔터프라이즈의 AI 투자를 최적화하고, 시스템 성능을 유지·향상시키는 데 필요한 관찰성(observability)을 제공하는 방법을 살펴봅니다.
 
 Cost Optimization and Budget Controls
-Semantic caching is an approach to reducing computational costs and improving response times when working with LLMs. Unlike traditional caching that relies on exact matches, semantic caching understands the intent behind queries, allowing for the reuse of previous responses even when questions are phrased differently.
+의미론적 캐싱은 LLM 작업에서 계산 비용을 줄이고 응답 시간을 개선하는 접근 방식입니다. 정확한 일치에 의존하는 전통적 캐싱과 달리, 의미론적 캐싱은 쿼리의 의도를 이해하여 질문이 다르게 표현되더라도 이전 응답을 재사용할 수 있게 합니다.
 
-Since every response generated by an LLM incurs some cost, every positive hit in the semantic cache means fewer cost-incurring requests made to the LLM provider. Semantic caching also improves response times when compared to responses generated by an LLM, typically measured in seconds. Better response times mean better user experience.
+LLM이 생성하는 모든 응답은 비용이 발생하므로 의미론적 캐시의 긍정적 적중(캐시 히트)이 발생할 때마다 LLM 제공자에 대한 비용 발생 호출 수가 줄어듭니다. 의미론적 캐싱은 일반적으로 LLM이 생성하는 응답에 비해 응답 시간을 개선하므로 사용자 경험도 향상됩니다.
 
-Let’s take a look at an example. Consider a customer service AI that handles product inquiries. If one customer asks “What’s the return policy for electronics?” and another later asks “How many days do I have to return my laptop?”, traditional caching would treat these as different queries requiring separate calls to the LLM. However, semantic caching recognizes their similar intent and can serve the cached response from the first query to the second customer, saving both time and cost, as shown in Figure 3-8.
+예를 들어 고객 문의를 처리하는 고객 서비스 AI를 생각해봅시다. 한 고객이 "전자제품 반품 정책이 어떻게 되나요?"라고 묻고, 이후 다른 고객이 "내 노트북을 반품하려면 며칠 이내에 해야 하나요?"라고 묻는다면, 전통적 캐시는 이를 서로 다른 쿼리로 간주하여 각각 별도의 LLM 호출을 수행할 것입니다. 그러나 의미론적 캐싱은 이 둘의 의도가 유사함을 인식하고 첫 번째 쿼리의 캐시된 응답을 두 번째 고객에게 제공하여 시간과 비용을 절감할 수 있습니다(그림 3-8 참조).
 
 
 Figure 3-8. Using a vector database to retrieve semantically similar requests
